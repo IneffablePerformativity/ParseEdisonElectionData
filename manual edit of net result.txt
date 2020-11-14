@@ -1,0 +1,55 @@
+Analysis limited to items from 11/3/2020 12:00:01 PM to 11/7/2020 12:00:01 PM UTC.
+
+timesTotalVotesFell = 36
+sumTotalVotesFell = 2095735
+nominalTrumpLoss during TotalVotesFell-622960
+nominalBidenLoss during TotalVotesFell-1378789
+
+Otherwise, provably timesTrumpVotesFell = 8
+Otherwise, provably sumTrumpVotesFell = 128869
+Otherwise, provably timesBidenVotesFell = 5
+Otherwise, provably sumBidenVotesFell = 40209
+
+Otherwise, nominal timesTrumpVotesFell = 115
+Otherwise, nominal sumTrumpVotesFell = 221134
+Otherwise, nominal timesBidenVotesFell = 308
+Otherwise, nominal sumBidenVotesFell = 466365
+
+pennsylvania had 7 provable flaws, worth 495% of the final vote margin.
+Flaw in pennsylvania at 11/3/2020 6:42:45 PM: dTotalVotes = -66, dTrumpVotes = -29, dBidenVotes = -37
+RAW DATA WAS(77, 0.429, 0.571), NOW IS(11, 0.364, 0.636).
+Flaw in pennsylvania at 11/3/2020 8:14:32 PM: dTotalVotes = -239804, dTrumpVotes = -42326, dBidenVotes = -196432
+RAW DATA WAS(1111586, 0.351, 0.641), NOW IS(871782, 0.399, 0.592).
+Flaw in pennsylvania at 11/3/2020 8:17:03 PM: dTotalVotes = -114886, dTrumpVotes = -127916, dBidenVotes = 12400
+RAW DATA WAS(888907, 0.406, 0.586), NOW IS(774021, 0.301, 0.689).
+Flaw in pennsylvania at 11/3/2020 8:22:45 PM: dTotalVotes = -586189, dTrumpVotes = -145179, dBidenVotes = -416589
+RAW DATA WAS(1325632, 0.312, 0.664), NOW IS(739443, 0.363, 0.627).
+Flaw in pennsylvania at 11/3/2020 10:08:51 PM: dTotalVotes = 54, dTrumpVotes = -14891, dBidenVotes = 0
+RAW DATA WAS(2984468, 0.566, 0.42), NOW IS(2984522, 0.56, 0.426).
+Flaw in pennsylvania at 11/6/2020 6:22:44 AM: dTotalVotes = -280, dTrumpVotes = -139, dBidenVotes = -138
+RAW DATA WAS(6639262, 0.495, 0.492), NOW IS(6638982, 0.495, 0.492).
+Flaw in pennsylvania at 11/6/2020 3:25:07 PM: dTotalVotes = -1, dTrumpVotes = 0, dBidenVotes = 0
+RAW DATA WAS(6701439, 0.493, 0.495), NOW IS(6701438, 0.493, 0.495).
+Biden won by 54501 votes while Trump was given 270316 net votes while 941172 votes disappeared in pennsylvania.
+
+virginia had 4 provable flaws, worth 113% of the final vote margin.
+Flaw in virginia at 11/3/2020 11:12:38 PM: dTotalVotes = -373642, dTrumpVotes = -37510, dBidenVotes = -330153
+RAW DATA WAS(3572807, 0.46, 0.524), NOW IS(3199165, 0.502, 0.482).
+Flaw in virginia at 11/3/2020 11:30:56 PM: dTotalVotes = -391573, dTrumpVotes = -80357, dBidenVotes = -308341
+RAW DATA WAS(3782386, 0.465, 0.519), NOW IS(3390813, 0.495, 0.488).
+Flaw in virginia at 11/5/2020 10:24:41 AM: dTotalVotes = -16066, dTrumpVotes = -11538, dBidenVotes = -8643
+RAW DATA WAS(4388538, 0.446, 0.538), NOW IS(4372472, 0.445, 0.538).
+Flaw in virginia at 11/6/2020 11:24:48 AM: dTotalVotes = -7732, dTrumpVotes = -7820, dBidenVotes = 211
+RAW DATA WAS(4386617, 0.445, 0.539), NOW IS(4378885, 0.444, 0.54).
+Biden won by 448782 votes while Trump was given 509701 net votes while 789013 votes disappeared in virginia.
+
+georgia had 3 provable flaws, worth 47% of the final vote margin.
+Flaw in georgia at 11/4/2020 12:12:24 AM: dTotalVotes = -28966, dTrumpVotes = -10753, dBidenVotes = -17865
+RAW DATA WAS(4367114, 0.521, 0.467), NOW IS(4338148, 0.522, 0.466).
+Flaw in georgia at 11/4/2020 8:50:36 PM: dTotalVotes = -3242, dTrumpVotes = -1614, dBidenVotes = -1589
+RAW DATA WAS(4877663, 0.498, 0.49), NOW IS(4874421, 0.498, 0.49).
+Flaw in georgia at 11/4/2020 8:54:08 PM: dTotalVotes = -1366, dTrumpVotes = -681, dBidenVotes = -669
+RAW DATA WAS(4874421, 0.498, 0.49), NOW IS(4873055, 0.498, 0.49).
+Biden won by 14977 votes while Trump was given 7075 net votes while 33574 votes disappeared in georgia.
+
+...

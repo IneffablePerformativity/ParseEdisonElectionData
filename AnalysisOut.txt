@@ -1,0 +1,1612 @@
+biden votes fell by 1319 in alabama
+Prior =  2037602 votes,     0.64 % trump,    0.347 % biden, 2020-11-04T06:27:48Z
+Later =  2039674 votes,     0.64 % trump,    0.346 % biden, 2020-11-04T06:29:29Z
+TRUMP VOTES FELL BY 1170 in alabama
+Prior =  2157715 votes,    0.634 % trump,    0.353 % biden, 2020-11-04T06:55:35Z
+Later =  2159275 votes,    0.633 % trump,    0.353 % biden, 2020-11-04T07:10:16Z
+TOTAL VOTES FELL BY 408 in alabama
+Nominal Change: Trump:    -254, Biden:     -149
+Prior =  2297624 votes,    0.623 % trump,    0.363 % biden, 2020-11-04T21:08:16Z
+Later =  2297216 votes,    0.623 % trump,    0.363 % biden, 2020-11-06T18:37:30Z
+TRUMP VOTES FELL BY 2291 in arizona
+Prior =  2331561 votes,    0.449 % trump,    0.539 % biden, 2020-11-04T03:14:48Z
+Later =  2331651 votes,    0.448 % trump,    0.539 % biden, 2020-11-04T03:16:33Z
+biden votes fell by 1667 in arizona
+Prior =  2331651 votes,    0.448 % trump,    0.539 % biden, 2020-11-04T03:16:33Z
+Later =  2332883 votes,    0.448 % trump,    0.538 % biden, 2020-11-04T03:17:55Z
+biden votes fell by 1345 in arizona
+Prior =  2400954 votes,     0.45 % trump,    0.537 % biden, 2020-11-04T04:03:37Z
+Later =  2402922 votes,     0.45 % trump,    0.536 % biden, 2020-11-04T04:04:48Z
+biden votes fell by 1722 in arizona
+Prior =  2408896 votes,    0.451 % trump,    0.536 % biden, 2020-11-04T04:23:33Z
+Later =  2410178 votes,    0.451 % trump,    0.535 % biden, 2020-11-04T04:26:30Z
+biden votes fell by 1293 in arizona
+Prior =  2533873 votes,    0.461 % trump,    0.526 % biden, 2020-11-04T06:07:45Z
+Later =  2536236 votes,    0.461 % trump,    0.525 % biden, 2020-11-04T06:17:33Z
+TRUMP VOTES FELL BY 2201 in arizona
+Prior =  2638624 votes,    0.469 % trump,    0.518 % biden, 2020-11-04T07:33:40Z
+Later =  2639559 votes,    0.468 % trump,    0.518 % biden, 2020-11-04T07:39:40Z
+biden votes fell by 2115 in arizona
+Prior =  2932674 votes,    0.483 % trump,    0.504 % biden, 2020-11-06T00:14:38Z
+Later =  2934297 votes,    0.483 % trump,    0.503 % biden, 2020-11-06T00:34:35Z
+biden votes fell by 1149 in arizona
+Prior =  3123624 votes,    0.486 % trump,      0.5 % biden, 2020-11-06T16:33:32Z
+Later =  3127581 votes,    0.486 % trump,    0.499 % biden, 2020-11-06T19:23:36Z
+biden votes fell by 1670 in arizona
+Prior =  3152467 votes,    0.486 % trump,    0.499 % biden, 2020-11-06T23:42:34Z
+Later =  3155443 votes,    0.487 % trump,    0.498 % biden, 2020-11-07T00:27:35Z
+biden votes fell by 121 in arkansas
+Prior =   509308 votes,    0.587 % trump,    0.388 % biden, 2020-11-04T02:40:46Z
+Later =   511632 votes,    0.588 % trump,    0.386 % biden, 2020-11-04T02:42:40Z
+biden votes fell by 127 in arkansas
+Prior =   526522 votes,    0.594 % trump,    0.381 % biden, 2020-11-04T02:51:05Z
+Later =   527570 votes,    0.594 % trump,     0.38 % biden, 2020-11-04T02:51:30Z
+biden votes fell by 63 in arkansas
+Prior =   673837 votes,    0.623 % trump,    0.352 % biden, 2020-11-04T03:22:16Z
+Later =   675573 votes,    0.623 % trump,    0.351 % biden, 2020-11-04T03:22:32Z
+biden votes fell by 207 in arkansas
+Prior =   926583 votes,    0.648 % trump,    0.325 % biden, 2020-11-04T04:16:23Z
+Later =   928801 votes,    0.648 % trump,    0.324 % biden, 2020-11-04T04:18:12Z
+biden votes fell by 156 in arkansas
+Prior =   938855 votes,    0.648 % trump,    0.325 % biden, 2020-11-04T04:19:42Z
+Later =   941267 votes,    0.648 % trump,    0.324 % biden, 2020-11-04T04:20:39Z
+TRUMP VOTES FELL BY 567 in arkansas
+Prior =  1184070 votes,    0.627 % trump,    0.345 % biden, 2020-11-04T05:41:54Z
+Later =  1185056 votes,    0.626 % trump,    0.345 % biden, 2020-11-04T05:48:28Z
+TOTAL VOTES FELL BY 3000 in arkansas
+Nominal Change: Trump:   -3098, Biden:      182
+Prior =  1219812 votes,    0.627 % trump,    0.345 % biden, 2020-11-05T21:50:46Z
+Later =  1216812 votes,    0.626 % trump,    0.346 % biden, 2020-11-06T18:49:46Z
+TOTAL VOTES FELL BY 3877 in arkansas
+Nominal Change: Trump:   -2427, Biden:    -2554
+Prior =  1216812 votes,    0.626 % trump,    0.346 % biden, 2020-11-06T18:49:46Z
+Later =  1212935 votes,    0.626 % trump,    0.345 % biden, 2020-11-06T19:10:54Z
+TOTAL VOTES FELL BY 4997 in arkansas
+Nominal Change: Trump:   -3128, Biden:     -516
+Prior =  1212935 votes,    0.626 % trump,    0.345 % biden, 2020-11-06T19:10:54Z
+Later =  1207938 votes,    0.626 % trump,    0.346 % biden, 2020-11-06T19:28:56Z
+TRUMP VOTES FELL BY 7702 in california
+Prior = 11210050 votes,    0.319 % trump,    0.663 % biden, 2020-11-04T07:21:42Z
+Later = 11221083 votes,    0.318 % trump,    0.663 % biden, 2020-11-04T07:22:38Z
+biden votes fell by 2661 in california
+Prior = 11385784 votes,    0.321 % trump,    0.661 % biden, 2020-11-04T07:54:42Z
+Later = 11399003 votes,    0.321 % trump,     0.66 % biden, 2020-11-04T08:00:55Z
+biden votes fell by 3739 in california
+Prior = 11457970 votes,    0.322 % trump,    0.659 % biden, 2020-11-04T08:16:48Z
+Later = 11469700 votes,    0.322 % trump,    0.658 % biden, 2020-11-04T08:17:18Z
+biden votes fell by 10040 in california
+Prior = 11554838 votes,    0.324 % trump,    0.658 % biden, 2020-11-04T08:49:56Z
+Later = 11557142 votes,    0.324 % trump,    0.657 % biden, 2020-11-04T08:53:19Z
+biden votes fell by 6513 in california
+Prior = 11628787 votes,    0.325 % trump,    0.657 % biden, 2020-11-04T08:54:46Z
+Later = 11636584 votes,    0.325 % trump,    0.656 % biden, 2020-11-04T08:59:54Z
+biden votes fell by 5221 in california
+Prior = 11741482 votes,    0.327 % trump,    0.655 % biden, 2020-11-04T09:39:57Z
+Later = 11751450 votes,    0.327 % trump,    0.654 % biden, 2020-11-04T09:47:42Z
+biden votes fell by 63 in colorado
+Prior =  2579008 votes,    0.404 % trump,    0.574 % biden, 2020-11-04T03:07:16Z
+Later =  2583397 votes,    0.404 % trump,    0.573 % biden, 2020-11-04T03:08:31Z
+biden votes fell by 422 in colorado
+Prior =  2796669 votes,    0.412 % trump,    0.565 % biden, 2020-11-04T04:31:25Z
+Later =  2800876 votes,    0.412 % trump,    0.564 % biden, 2020-11-04T04:38:42Z
+biden votes fell by 455 in colorado
+Prior =  2835705 votes,    0.414 % trump,    0.563 % biden, 2020-11-04T05:37:30Z
+Later =  2839938 votes,    0.414 % trump,    0.562 % biden, 2020-11-04T05:44:21Z
+biden votes fell by 1874 in colorado
+Prior =  2899402 votes,    0.417 % trump,    0.559 % biden, 2020-11-04T07:19:42Z
+Later =  2901237 votes,    0.417 % trump,    0.558 % biden, 2020-11-04T07:49:42Z
+biden votes fell by 2451 in colorado
+Prior =  2976887 votes,     0.42 % trump,    0.555 % biden, 2020-11-04T23:00:43Z
+Later =  2977835 votes,    0.421 % trump,    0.554 % biden, 2020-11-04T23:32:43Z
+TRUMP VOTES FELL BY 1810 in colorado
+Prior =  3089843 votes,    0.423 % trump,    0.551 % biden, 2020-11-05T20:49:37Z
+Later =  3092877 votes,    0.422 % trump,    0.551 % biden, 2020-11-05T23:11:38Z
+biden votes fell by 701 in connecticut
+Prior =   966213 votes,    0.423 % trump,    0.562 % biden, 2020-11-04T04:32:57Z
+Later =   966683 votes,    0.423 % trump,    0.561 % biden, 2020-11-04T04:34:04Z
+TRUMP VOTES FELL BY 1277 in connecticut
+Prior =  1585713 votes,      0.4 % trump,    0.585 % biden, 2020-11-04T08:01:46Z
+Later =  1586486 votes,    0.399 % trump,    0.585 % biden, 2020-11-04T10:31:42Z
+biden votes fell by 692 in connecticut
+Prior =  1590733 votes,      0.4 % trump,    0.585 % biden, 2020-11-04T14:16:44Z
+Later =  1592269 votes,      0.4 % trump,    0.584 % biden, 2020-11-04T15:38:44Z
+TRUMP VOTES FELL BY 1039 in connecticut
+Prior =  1671661 votes,    0.402 % trump,    0.583 % biden, 2020-11-04T20:02:43Z
+Later =  1673239 votes,    0.401 % trump,    0.583 % biden, 2020-11-04T20:06:43Z
+TRUMP VOTES FELL BY 56 in connecticut
+Prior =  1690561 votes,      0.4 % trump,    0.585 % biden, 2020-11-05T02:08:52Z
+Later =  1698915 votes,    0.398 % trump,    0.586 % biden, 2020-11-05T02:46:43Z
+TRUMP VOTES FELL BY 1462 in connecticut
+Prior =  1724244 votes,    0.398 % trump,    0.587 % biden, 2020-11-05T22:46:36Z
+Later =  1724904 votes,    0.397 % trump,    0.587 % biden, 2020-11-05T22:53:36Z
+biden votes fell by 955 in florida
+Prior =  1575006 votes,    0.532 % trump,     0.46 % biden, 2020-11-04T00:09:04Z
+Later =  1576355 votes,    0.532 % trump,    0.459 % biden, 2020-11-04T00:09:47Z
+biden votes fell by 1169 in florida
+Prior =  2575945 votes,    0.493 % trump,    0.498 % biden, 2020-11-04T00:13:10Z
+Later =  2578773 votes,    0.493 % trump,    0.497 % biden, 2020-11-04T00:13:49Z
+TRUMP VOTES FELL BY 4245 in florida
+Prior =  4421947 votes,    0.489 % trump,    0.503 % biden, 2020-11-04T00:19:52Z
+Later =  4422310 votes,    0.488 % trump,    0.503 % biden, 2020-11-04T00:20:14Z
+biden votes fell by 1118 in florida
+Prior =  6912356 votes,    0.499 % trump,    0.492 % biden, 2020-11-04T00:31:07Z
+Later =  6924156 votes,      0.5 % trump,    0.491 % biden, 2020-11-04T00:31:47Z
+biden votes fell by 3327 in florida
+Prior =  7729812 votes,    0.488 % trump,    0.503 % biden, 2020-11-04T00:34:45Z
+Later =  7738581 votes,    0.489 % trump,    0.502 % biden, 2020-11-04T00:35:46Z
+TOTAL VOTES FELL BY 96 in florida
+Nominal Change: Trump:     -47, Biden:      -48
+Prior =  9246265 votes,    0.491 % trump,    0.499 % biden, 2020-11-04T00:46:51Z
+Later =  9246169 votes,    0.491 % trump,    0.499 % biden, 2020-11-04T00:47:04Z
+biden votes fell by 8064 in florida
+Prior =  9370786 votes,    0.494 % trump,    0.497 % biden, 2020-11-04T00:49:07Z
+Later =  9373418 votes,    0.494 % trump,    0.496 % biden, 2020-11-04T00:50:07Z
+biden votes fell by 9060 in florida
+Prior =  9418162 votes,    0.495 % trump,    0.496 % biden, 2020-11-04T00:52:14Z
+Later =  9418884 votes,    0.495 % trump,    0.495 % biden, 2020-11-04T00:52:49Z
+TRUMP VOTES FELL BY 6807 in florida
+Prior =  9480672 votes,    0.496 % trump,    0.494 % biden, 2020-11-04T00:56:47Z
+Later =  9486073 votes,    0.495 % trump,    0.496 % biden, 2020-11-04T00:57:07Z
+biden votes fell by 2528 in florida
+Prior =  9488315 votes,    0.495 % trump,    0.496 % biden, 2020-11-04T00:57:53Z
+Later =  9502374 votes,    0.495 % trump,    0.495 % biden, 2020-11-04T00:58:22Z
+biden votes fell by 8565 in florida
+Prior =  9552681 votes,    0.496 % trump,    0.495 % biden, 2020-11-04T01:00:52Z
+Later =  9554680 votes,    0.496 % trump,    0.494 % biden, 2020-11-04T01:01:09Z
+biden votes fell by 6069 in florida
+Prior = 10074970 votes,    0.498 % trump,    0.492 % biden, 2020-11-04T01:06:59Z
+Later = 10083128 votes,    0.498 % trump,    0.491 % biden, 2020-11-04T01:07:47Z
+biden votes fell by 4280 in florida
+Prior = 10171197 votes,      0.5 % trump,     0.49 % biden, 2020-11-04T01:09:49Z
+Later = 10183243 votes,      0.5 % trump,    0.489 % biden, 2020-11-04T01:10:15Z
+biden votes fell by 8943 in florida
+Prior = 10425637 votes,    0.503 % trump,    0.487 % biden, 2020-11-04T01:22:34Z
+Later = 10428687 votes,    0.503 % trump,    0.486 % biden, 2020-11-04T01:22:48Z
+biden votes fell by 2001 in florida
+Prior = 10557468 votes,    0.505 % trump,    0.485 % biden, 2020-11-04T01:29:03Z
+Later = 10575143 votes,    0.505 % trump,    0.484 % biden, 2020-11-04T01:29:54Z
+TRUMP VOTES FELL BY 10371 in florida
+Prior = 10588081 votes,    0.506 % trump,    0.484 % biden, 2020-11-04T01:33:18Z
+Later = 10588511 votes,    0.505 % trump,    0.484 % biden, 2020-11-04T01:33:31Z
+biden votes fell by 6374 in florida
+Prior = 10631766 votes,    0.506 % trump,    0.484 % biden, 2020-11-04T01:44:45Z
+Later = 10640578 votes,    0.506 % trump,    0.483 % biden, 2020-11-04T01:45:12Z
+biden votes fell by 21 in florida
+Prior = 10698039 votes,    0.507 % trump,    0.483 % biden, 2020-11-04T01:50:48Z
+Later = 10720188 votes,    0.508 % trump,    0.482 % biden, 2020-11-04T01:57:51Z
+biden votes fell by 8289 in florida
+Prior = 10794836 votes,     0.51 % trump,    0.481 % biden, 2020-11-04T02:05:25Z
+Later = 10800056 votes,     0.51 % trump,     0.48 % biden, 2020-11-04T02:07:06Z
+biden votes fell by 8280 in florida
+Prior = 10915001 votes,    0.511 % trump,    0.479 % biden, 2020-11-04T02:40:10Z
+Later = 10920511 votes,    0.512 % trump,    0.478 % biden, 2020-11-04T02:40:20Z
+biden votes fell by 10811 in florida
+Prior = 10931707 votes,    0.512 % trump,    0.478 % biden, 2020-11-04T02:51:28Z
+Later = 10931958 votes,    0.512 % trump,    0.477 % biden, 2020-11-04T02:52:22Z
+biden votes fell by 10271 in florida
+Prior = 10965774 votes,    0.512 % trump,    0.478 % biden, 2020-11-04T03:28:01Z
+Later = 10967227 votes,    0.512 % trump,    0.477 % biden, 2020-11-04T03:31:51Z
+biden votes fell by 10233 in florida
+Prior = 10967847 votes,    0.512 % trump,    0.478 % biden, 2020-11-04T03:35:25Z
+Later = 10969385 votes,    0.512 % trump,    0.477 % biden, 2020-11-04T03:43:01Z
+biden votes fell by 10459 in florida
+Prior = 11007601 votes,    0.512 % trump,    0.478 % biden, 2020-11-04T04:37:06Z
+Later = 11008750 votes,    0.512 % trump,    0.477 % biden, 2020-11-04T04:45:56Z
+biden votes fell by 8 in georgia
+Prior =   175264 votes,    0.434 % trump,    0.555 % biden, 2020-11-04T00:23:58Z
+Later =   175564 votes,    0.435 % trump,    0.554 % biden, 2020-11-04T00:24:14Z
+biden votes fell by 255 in georgia
+Prior =   283301 votes,    0.524 % trump,    0.467 % biden, 2020-11-04T00:47:05Z
+Later =   283359 votes,    0.524 % trump,    0.466 % biden, 2020-11-04T00:47:52Z
+biden votes fell by 570 in georgia
+Prior =   781214 votes,    0.543 % trump,    0.447 % biden, 2020-11-04T01:13:56Z
+Later =   781684 votes,    0.544 % trump,    0.446 % biden, 2020-11-04T01:14:54Z
+TRUMP VOTES FELL BY 447 in georgia
+Prior =   781684 votes,    0.544 % trump,    0.446 % biden, 2020-11-04T01:14:54Z
+Later =   782301 votes,    0.543 % trump,    0.446 % biden, 2020-11-04T01:15:55Z
+biden votes fell by 600 in georgia
+Prior =   928777 votes,    0.566 % trump,    0.424 % biden, 2020-11-04T01:24:58Z
+Later =   929552 votes,    0.567 % trump,    0.423 % biden, 2020-11-04T01:25:53Z
+biden votes fell by 691 in georgia
+Prior =  1928933 votes,    0.573 % trump,    0.417 % biden, 2020-11-04T02:15:00Z
+Later =  1931908 votes,    0.573 % trump,    0.416 % biden, 2020-11-04T02:15:54Z
+biden votes fell by 513 in georgia
+Prior =  2168141 votes,    0.572 % trump,    0.417 % biden, 2020-11-04T02:34:13Z
+Later =  2172117 votes,    0.573 % trump,    0.416 % biden, 2020-11-04T02:34:41Z
+biden votes fell by 1296 in georgia
+Prior =  2306101 votes,    0.567 % trump,    0.422 % biden, 2020-11-04T02:37:58Z
+Later =  2308498 votes,    0.567 % trump,    0.421 % biden, 2020-11-04T02:38:34Z
+biden votes fell by 560 in georgia
+Prior =  2362885 votes,     0.57 % trump,    0.419 % biden, 2020-11-04T02:43:35Z
+Later =  2367195 votes,    0.571 % trump,    0.418 % biden, 2020-11-04T02:44:58Z
+biden votes fell by 20 in georgia
+Prior =  2450931 votes,    0.567 % trump,    0.422 % biden, 2020-11-04T02:50:04Z
+Later =  2456703 votes,    0.567 % trump,    0.421 % biden, 2020-11-04T02:50:23Z
+biden votes fell by 248 in georgia
+Prior =  2505309 votes,    0.568 % trump,    0.421 % biden, 2020-11-04T02:54:49Z
+Later =  2510681 votes,    0.568 % trump,     0.42 % biden, 2020-11-04T02:55:05Z
+biden votes fell by 242 in georgia
+Prior =  2687734 votes,    0.559 % trump,     0.43 % biden, 2020-11-04T03:00:48Z
+Later =  2693433 votes,    0.559 % trump,    0.429 % biden, 2020-11-04T03:02:54Z
+biden votes fell by 303 in georgia
+Prior =  2727004 votes,    0.558 % trump,    0.431 % biden, 2020-11-04T03:06:34Z
+Later =  2732639 votes,    0.558 % trump,     0.43 % biden, 2020-11-04T03:06:45Z
+biden votes fell by 816 in georgia
+Prior =  2747421 votes,    0.558 % trump,    0.431 % biden, 2020-11-04T03:15:32Z
+Later =  2751910 votes,    0.558 % trump,     0.43 % biden, 2020-11-04T03:16:53Z
+biden votes fell by 2730 in georgia
+Prior =  3584425 votes,     0.54 % trump,    0.448 % biden, 2020-11-04T04:34:04Z
+Later =  3586334 votes,     0.54 % trump,    0.447 % biden, 2020-11-04T04:35:49Z
+TRUMP VOTES FELL BY 3742 in georgia
+Prior =  3801772 votes,    0.535 % trump,    0.453 % biden, 2020-11-04T04:48:28Z
+Later =  3801884 votes,    0.534 % trump,    0.453 % biden, 2020-11-04T04:48:54Z
+TRUMP VOTES FELL BY 3907 in georgia
+Prior =  4088909 votes,    0.534 % trump,    0.454 % biden, 2020-11-04T05:14:30Z
+Later =  4112396 votes,     0.53 % trump,    0.458 % biden, 2020-11-04T05:18:58Z
+TOTAL VOTES FELL BY 28966 in georgia
+Nominal Change: Trump:  -10753, Biden:   -17865
+Prior =  4367114 votes,    0.521 % trump,    0.467 % biden, 2020-11-04T06:06:06Z
+Later =  4338148 votes,    0.522 % trump,    0.466 % biden, 2020-11-04T06:12:24Z
+TRUMP VOTES FELL BY 1784 in georgia
+Prior =  4757222 votes,    0.503 % trump,    0.485 % biden, 2020-11-04T19:34:50Z
+Later =  4763146 votes,    0.502 % trump,    0.485 % biden, 2020-11-04T19:42:51Z
+TRUMP VOTES FELL BY 124 in georgia
+Prior =  4810817 votes,    0.501 % trump,    0.487 % biden, 2020-11-04T22:51:51Z
+Later =  4820190 votes,      0.5 % trump,    0.488 % biden, 2020-11-04T22:52:13Z
+TOTAL VOTES FELL BY 3242 in georgia
+Nominal Change: Trump:   -1614, Biden:    -1589
+Prior =  4877663 votes,    0.498 % trump,     0.49 % biden, 2020-11-05T02:16:50Z
+Later =  4874421 votes,    0.498 % trump,     0.49 % biden, 2020-11-05T02:50:36Z
+TOTAL VOTES FELL BY 1366 in georgia
+Nominal Change: Trump:    -681, Biden:     -669
+Prior =  4874421 votes,    0.498 % trump,     0.49 % biden, 2020-11-05T02:50:36Z
+Later =  4873055 votes,    0.498 % trump,     0.49 % biden, 2020-11-05T02:54:08Z
+TRUMP VOTES FELL BY 1553 in georgia
+Prior =  4873055 votes,    0.498 % trump,     0.49 % biden, 2020-11-05T02:54:08Z
+Later =  4879735 votes,    0.497 % trump,     0.49 % biden, 2020-11-05T03:00:29Z
+TRUMP VOTES FELL BY 2503 in georgia
+Prior =  4887209 votes,    0.497 % trump,    0.491 % biden, 2020-11-05T05:23:50Z
+Later =  4892017 votes,    0.496 % trump,    0.491 % biden, 2020-11-05T06:06:21Z
+TRUMP VOTES FELL BY 1875 in georgia
+Prior =  4908971 votes,    0.496 % trump,    0.492 % biden, 2020-11-05T15:48:46Z
+Later =  4915101 votes,    0.495 % trump,    0.492 % biden, 2020-11-05T16:33:27Z
+TRUMP VOTES FELL BY 1473 in georgia
+Prior =  4961877 votes,    0.494 % trump,    0.494 % biden, 2020-11-06T21:59:41Z
+Later =  4968953 votes,    0.493 % trump,    0.494 % biden, 2020-11-06T22:00:40Z
+biden votes fell by 151 in idaho
+Prior =   464481 votes,    0.548 % trump,    0.424 % biden, 2020-11-04T05:19:45Z
+Later =   466322 votes,    0.549 % trump,    0.422 % biden, 2020-11-04T05:21:16Z
+biden votes fell by 57 in illinois
+Prior =   696130 votes,    0.411 % trump,    0.569 % biden, 2020-11-04T02:01:23Z
+Later =   697253 votes,    0.412 % trump,    0.568 % biden, 2020-11-04T02:03:30Z
+biden votes fell by 347 in illinois
+Prior =   804676 votes,    0.412 % trump,    0.569 % biden, 2020-11-04T02:07:53Z
+Later =   805480 votes,    0.412 % trump,    0.568 % biden, 2020-11-04T02:09:50Z
+biden votes fell by 11 in illinois
+Prior =   932757 votes,    0.409 % trump,    0.572 % biden, 2020-11-04T02:22:03Z
+Later =   934371 votes,    0.409 % trump,    0.571 % biden, 2020-11-04T02:22:52Z
+biden votes fell by 617 in illinois
+Prior =   945725 votes,    0.412 % trump,    0.569 % biden, 2020-11-04T02:26:42Z
+Later =   946302 votes,    0.412 % trump,    0.568 % biden, 2020-11-04T02:28:30Z
+biden votes fell by 87 in illinois
+Prior =  1000261 votes,    0.413 % trump,    0.568 % biden, 2020-11-04T02:30:30Z
+Later =  1001870 votes,    0.413 % trump,    0.567 % biden, 2020-11-04T02:30:51Z
+biden votes fell by 879 in illinois
+Prior =  1090865 votes,    0.437 % trump,    0.544 % biden, 2020-11-04T02:45:53Z
+Later =  1091254 votes,    0.437 % trump,    0.543 % biden, 2020-11-04T02:46:16Z
+biden votes fell by 212 in illinois
+Prior =  1283245 votes,    0.441 % trump,     0.54 % biden, 2020-11-04T02:53:22Z
+Later =  1285231 votes,    0.442 % trump,    0.539 % biden, 2020-11-04T02:53:44Z
+biden votes fell by 292 in illinois
+Prior =  1641826 votes,    0.409 % trump,    0.572 % biden, 2020-11-04T03:00:39Z
+Later =  1644188 votes,     0.41 % trump,    0.571 % biden, 2020-11-04T03:03:17Z
+biden votes fell by 753 in illinois
+Prior =  1662505 votes,    0.414 % trump,    0.568 % biden, 2020-11-04T03:05:20Z
+Later =  1664107 votes,    0.414 % trump,    0.567 % biden, 2020-11-04T03:05:46Z
+biden votes fell by 171 in illinois
+Prior =  1772655 votes,    0.408 % trump,    0.542 % biden, 2020-11-04T03:09:46Z
+Later =  1775615 votes,    0.409 % trump,    0.541 % biden, 2020-11-04T03:10:12Z
+biden votes fell by 119 in illinois
+Prior =  2295288 votes,    0.379 % trump,    0.578 % biden, 2020-11-04T03:28:07Z
+Later =  2299058 votes,     0.38 % trump,    0.577 % biden, 2020-11-04T03:29:40Z
+biden votes fell by 23 in illinois
+Prior =  3153706 votes,    0.386 % trump,    0.579 % biden, 2020-11-04T03:36:55Z
+Later =  3159120 votes,    0.387 % trump,    0.578 % biden, 2020-11-04T03:37:30Z
+biden votes fell by 933 in illinois
+Prior =  3190755 votes,    0.389 % trump,    0.576 % biden, 2020-11-04T03:39:08Z
+Later =  3194679 votes,    0.389 % trump,    0.575 % biden, 2020-11-04T03:39:22Z
+biden votes fell by 1880 in illinois
+Prior =  3514328 votes,    0.405 % trump,    0.561 % biden, 2020-11-04T03:46:06Z
+Later =  3517246 votes,    0.406 % trump,     0.56 % biden, 2020-11-04T03:46:48Z
+biden votes fell by 469 in illinois
+Prior =  3547856 votes,    0.408 % trump,    0.558 % biden, 2020-11-04T03:49:40Z
+Later =  3553381 votes,    0.409 % trump,    0.557 % biden, 2020-11-04T03:50:35Z
+biden votes fell by 125 in illinois
+Prior =  3578853 votes,    0.411 % trump,    0.556 % biden, 2020-11-04T03:58:11Z
+Later =  3585075 votes,    0.411 % trump,    0.555 % biden, 2020-11-04T04:00:00Z
+biden votes fell by 1943 in illinois
+Prior =  3623415 votes,    0.411 % trump,    0.555 % biden, 2020-11-04T04:07:42Z
+Later =  3626447 votes,    0.412 % trump,    0.554 % biden, 2020-11-04T04:09:25Z
+TOTAL VOTES FELL BY 54275 in illinois
+Nominal Change: Trump:    2777, Biden:     2377
+Prior =  3653309 votes,    0.413 % trump,    0.553 % biden, 2020-11-04T04:11:50Z
+Later =  3599034 votes,     0.42 % trump,    0.562 % biden, 2020-11-04T04:15:36Z
+biden votes fell by 1813 in illinois
+Prior =  3610139 votes,    0.421 % trump,    0.561 % biden, 2020-11-04T04:16:15Z
+Later =  3613346 votes,    0.421 % trump,     0.56 % biden, 2020-11-04T04:18:21Z
+biden votes fell by 933 in illinois
+Prior =  3623738 votes,    0.422 % trump,     0.56 % biden, 2020-11-04T04:26:14Z
+Later =  3628550 votes,    0.422 % trump,    0.559 % biden, 2020-11-04T04:26:22Z
+biden votes fell by 491 in illinois
+Prior =  3750853 votes,    0.424 % trump,    0.558 % biden, 2020-11-04T04:27:31Z
+Later =  3756703 votes,    0.424 % trump,    0.557 % biden, 2020-11-04T04:28:37Z
+biden votes fell by 1267 in illinois
+Prior =  3960764 votes,    0.423 % trump,    0.559 % biden, 2020-11-04T05:08:29Z
+Later =  3965590 votes,    0.423 % trump,    0.558 % biden, 2020-11-04T05:10:43Z
+TRUMP VOTES FELL BY 2166 in illinois
+Prior =  5082206 votes,    0.429 % trump,    0.552 % biden, 2020-11-05T16:43:58Z
+Later =  5089019 votes,    0.428 % trump,    0.553 % biden, 2020-11-05T16:54:21Z
+biden votes fell by 2051 in illinois
+Prior =  5128449 votes,    0.429 % trump,    0.552 % biden, 2020-11-05T18:04:18Z
+Later =  5134031 votes,    0.429 % trump,    0.551 % biden, 2020-11-05T18:11:20Z
+biden votes fell by 2108 in illinois
+Prior =  5171947 votes,    0.429 % trump,    0.552 % biden, 2020-11-05T19:13:49Z
+Later =  5177505 votes,    0.429 % trump,    0.551 % biden, 2020-11-05T19:36:01Z
+biden votes fell by 1095 in illinois
+Prior =  5328372 votes,    0.431 % trump,     0.55 % biden, 2020-11-06T01:36:38Z
+Later =  5336081 votes,    0.431 % trump,    0.549 % biden, 2020-11-06T02:15:48Z
+biden votes fell by 1243 in illinois
+Prior =  5368050 votes,     0.43 % trump,    0.551 % biden, 2020-11-06T17:16:58Z
+Later =  5375549 votes,     0.43 % trump,     0.55 % biden, 2020-11-06T17:50:17Z
+biden votes fell by 129 in indiana
+Prior =   359575 votes,    0.673 % trump,    0.305 % biden, 2020-11-04T00:30:57Z
+Later =   360331 votes,    0.673 % trump,    0.304 % biden, 2020-11-04T00:33:06Z
+biden votes fell by 101 in indiana
+Prior =   362228 votes,    0.674 % trump,    0.304 % biden, 2020-11-04T00:34:35Z
+Later =   363089 votes,    0.675 % trump,    0.303 % biden, 2020-11-04T00:36:07Z
+biden votes fell by 102 in indiana
+Prior =   466553 votes,    0.656 % trump,    0.322 % biden, 2020-11-04T00:47:40Z
+Later =   467687 votes,    0.657 % trump,    0.321 % biden, 2020-11-04T00:48:06Z
+biden votes fell by 179 in indiana
+Prior =   529766 votes,    0.671 % trump,    0.308 % biden, 2020-11-04T00:59:31Z
+Later =   530905 votes,    0.672 % trump,    0.307 % biden, 2020-11-04T01:00:11Z
+biden votes fell by 6 in indiana
+Prior =   532986 votes,    0.672 % trump,    0.307 % biden, 2020-11-04T01:01:59Z
+Later =   534703 votes,    0.673 % trump,    0.306 % biden, 2020-11-04T01:02:13Z
+biden votes fell by 338 in indiana
+Prior =   867841 votes,    0.586 % trump,    0.395 % biden, 2020-11-04T01:11:44Z
+Later =   869183 votes,    0.587 % trump,    0.394 % biden, 2020-11-04T01:14:17Z
+biden votes fell by 538 in indiana
+Prior =  1079756 votes,    0.585 % trump,    0.396 % biden, 2020-11-04T01:21:58Z
+Later =  1081126 votes,    0.585 % trump,    0.395 % biden, 2020-11-04T01:22:48Z
+biden votes fell by 591 in indiana
+Prior =  1121720 votes,    0.591 % trump,     0.39 % biden, 2020-11-04T01:25:20Z
+Later =  1123082 votes,    0.591 % trump,    0.389 % biden, 2020-11-04T01:26:10Z
+biden votes fell by 766 in indiana
+Prior =  1355043 votes,    0.593 % trump,    0.387 % biden, 2020-11-04T01:45:53Z
+Later =  1356565 votes,    0.594 % trump,    0.386 % biden, 2020-11-04T01:46:37Z
+biden votes fell by 631 in indiana
+Prior =  1378967 votes,    0.596 % trump,    0.384 % biden, 2020-11-04T01:46:56Z
+Later =  1380918 votes,    0.597 % trump,    0.383 % biden, 2020-11-04T01:48:27Z
+biden votes fell by 511 in indiana
+Prior =  1393850 votes,    0.597 % trump,    0.383 % biden, 2020-11-04T01:50:24Z
+Later =  1396158 votes,    0.598 % trump,    0.382 % biden, 2020-11-04T01:50:37Z
+biden votes fell by 212 in indiana
+Prior =  1764457 votes,    0.603 % trump,    0.376 % biden, 2020-11-04T02:51:04Z
+Later =  1768594 votes,    0.604 % trump,    0.375 % biden, 2020-11-04T03:05:43Z
+biden votes fell by 1462 in indiana
+Prior =  2580124 votes,    0.593 % trump,    0.385 % biden, 2020-11-04T08:08:18Z
+Later =  2589777 votes,    0.594 % trump,    0.383 % biden, 2020-11-04T08:37:47Z
+biden votes fell by 1078 in indiana
+Prior =  2897553 votes,    0.573 % trump,    0.405 % biden, 2020-11-05T17:11:43Z
+Later =  2902053 votes,    0.574 % trump,    0.404 % biden, 2020-11-05T18:32:31Z
+biden votes fell by 232 in iowa
+Prior =   295154 votes,    0.369 % trump,    0.616 % biden, 2020-11-04T03:22:16Z
+Later =   295254 votes,    0.369 % trump,    0.615 % biden, 2020-11-04T03:22:32Z
+biden votes fell by 340 in iowa
+Prior =   361769 votes,    0.375 % trump,     0.61 % biden, 2020-11-04T03:31:28Z
+Later =   361804 votes,    0.375 % trump,    0.609 % biden, 2020-11-04T03:33:57Z
+biden votes fell by 200 in iowa
+Prior =   367914 votes,    0.379 % trump,    0.606 % biden, 2020-11-04T03:35:21Z
+Later =   368799 votes,     0.38 % trump,    0.604 % biden, 2020-11-04T03:35:45Z
+biden votes fell by 352 in iowa
+Prior =   775423 votes,    0.419 % trump,    0.563 % biden, 2020-11-04T03:52:00Z
+Later =   776176 votes,    0.419 % trump,    0.562 % biden, 2020-11-04T03:53:19Z
+biden votes fell by 456 in iowa
+Prior =  1075992 votes,    0.473 % trump,    0.509 % biden, 2020-11-04T04:19:23Z
+Later =  1077210 votes,    0.473 % trump,    0.508 % biden, 2020-11-04T04:20:02Z
+TRUMP VOTES FELL BY 939 in iowa
+Prior =  1301602 votes,    0.506 % trump,    0.475 % biden, 2020-11-04T04:41:48Z
+Later =  1302321 votes,    0.505 % trump,    0.476 % biden, 2020-11-04T04:42:09Z
+biden votes fell by 323 in iowa
+Prior =  1385196 votes,    0.513 % trump,    0.468 % biden, 2020-11-04T04:49:49Z
+Later =  1387467 votes,    0.514 % trump,    0.467 % biden, 2020-11-04T04:50:03Z
+biden votes fell by 326 in iowa
+Prior =  1452843 votes,    0.518 % trump,    0.464 % biden, 2020-11-04T04:59:12Z
+Later =  1455275 votes,    0.518 % trump,    0.463 % biden, 2020-11-04T04:59:51Z
+biden votes fell by 976 in iowa
+Prior =  1486924 votes,    0.523 % trump,    0.459 % biden, 2020-11-04T05:03:54Z
+Later =  1488038 votes,    0.523 % trump,    0.458 % biden, 2020-11-04T05:05:11Z
+biden votes fell by 1010 in iowa
+Prior =  1532861 votes,    0.522 % trump,     0.46 % biden, 2020-11-04T05:10:57Z
+Later =  1534000 votes,    0.522 % trump,    0.459 % biden, 2020-11-04T05:11:33Z
+biden votes fell by 6745 in iowa
+Prior =  1686601 votes,    0.527 % trump,    0.454 % biden, 2020-11-04T10:15:47Z
+Later =  1686601 votes,    0.531 % trump,    0.449 % biden, 2020-11-04T21:43:29Z
+biden votes fell by 39 in kansas
+Prior =   417144 votes,    0.443 % trump,    0.544 % biden, 2020-11-04T01:33:02Z
+Later =   418609 votes,    0.442 % trump,    0.542 % biden, 2020-11-04T01:35:06Z
+biden votes fell by 3783 in kansas
+Prior =   472997 votes,    0.446 % trump,    0.536 % biden, 2020-11-04T01:50:27Z
+Later =   472997 votes,    0.455 % trump,    0.527 % biden, 2020-11-04T01:50:49Z
+biden votes fell by 30 in kansas
+Prior =   477264 votes,    0.456 % trump,    0.527 % biden, 2020-11-04T01:51:08Z
+Later =   478114 votes,    0.457 % trump,    0.526 % biden, 2020-11-04T01:52:21Z
+biden votes fell by 263 in kansas
+Prior =   521810 votes,    0.469 % trump,     0.51 % biden, 2020-11-04T02:10:50Z
+Later =   523345 votes,     0.47 % trump,    0.508 % biden, 2020-11-04T02:12:43Z
+biden votes fell by 256 in kansas
+Prior =   527870 votes,    0.473 % trump,    0.506 % biden, 2020-11-04T02:15:24Z
+Later =   529456 votes,    0.474 % trump,    0.504 % biden, 2020-11-04T02:19:42Z
+biden votes fell by 220 in kansas
+Prior =   543096 votes,    0.481 % trump,    0.497 % biden, 2020-11-04T02:23:10Z
+Later =   543745 votes,    0.481 % trump,    0.496 % biden, 2020-11-04T02:24:16Z
+biden votes fell by 6724 in kansas
+Prior =   733943 votes,    0.492 % trump,    0.486 % biden, 2020-11-04T02:34:04Z
+Later =   736786 votes,    0.501 % trump,    0.474 % biden, 2020-11-04T02:37:05Z
+biden votes fell by 135 in kansas
+Prior =   774998 votes,    0.512 % trump,    0.463 % biden, 2020-11-04T02:52:49Z
+Later =   776381 votes,    0.513 % trump,    0.462 % biden, 2020-11-04T02:53:06Z
+biden votes fell by 111 in kansas
+Prior =   782163 votes,    0.514 % trump,    0.461 % biden, 2020-11-04T02:53:33Z
+Later =   783621 votes,    0.515 % trump,     0.46 % biden, 2020-11-04T02:54:17Z
+biden votes fell by 149 in kansas
+Prior =   793695 votes,    0.517 % trump,    0.458 % biden, 2020-11-04T03:00:04Z
+Later =   795105 votes,    0.518 % trump,    0.457 % biden, 2020-11-04T03:01:08Z
+TRUMP VOTES FELL BY 836 in kansas
+Prior =   837434 votes,    0.526 % trump,    0.449 % biden, 2020-11-04T03:06:59Z
+Later =   837434 votes,    0.524 % trump,    0.451 % biden, 2020-11-04T03:08:24Z
+biden votes fell by 673 in kansas
+Prior =   840922 votes,    0.525 % trump,     0.45 % biden, 2020-11-04T03:09:04Z
+Later =   841292 votes,    0.525 % trump,    0.449 % biden, 2020-11-04T03:09:43Z
+biden votes fell by 507 in kansas
+Prior =   850165 votes,    0.528 % trump,    0.447 % biden, 2020-11-04T03:14:28Z
+Later =   850932 votes,    0.528 % trump,    0.446 % biden, 2020-11-04T03:15:04Z
+biden votes fell by 32 in kansas
+Prior =   856535 votes,     0.53 % trump,    0.445 % biden, 2020-11-04T03:15:59Z
+Later =   860328 votes,    0.531 % trump,    0.443 % biden, 2020-11-04T03:18:15Z
+biden votes fell by 576 in kansas
+Prior =   894503 votes,    0.539 % trump,    0.435 % biden, 2020-11-04T03:38:10Z
+Later =   895235 votes,    0.539 % trump,    0.434 % biden, 2020-11-04T03:38:25Z
+biden votes fell by 681 in kansas
+Prior =   947517 votes,    0.551 % trump,    0.423 % biden, 2020-11-04T03:56:17Z
+Later =   948145 votes,    0.552 % trump,    0.422 % biden, 2020-11-04T03:58:48Z
+biden votes fell by 669 in kansas
+Prior =   948729 votes,    0.553 % trump,    0.422 % biden, 2020-11-04T04:00:25Z
+Later =   949390 votes,    0.553 % trump,    0.421 % biden, 2020-11-04T04:00:52Z
+biden votes fell by 428 in kansas
+Prior =   951934 votes,    0.553 % trump,    0.422 % biden, 2020-11-04T04:01:15Z
+Later =   953176 votes,    0.553 % trump,    0.421 % biden, 2020-11-04T04:05:32Z
+biden votes fell by 418 in kansas
+Prior =   963521 votes,    0.556 % trump,    0.419 % biden, 2020-11-04T04:07:47Z
+Later =   964823 votes,    0.556 % trump,    0.418 % biden, 2020-11-04T04:09:49Z
+biden votes fell by 95 in kansas
+Prior =  1015947 votes,    0.561 % trump,    0.413 % biden, 2020-11-04T04:14:20Z
+Later =  1018181 votes,    0.562 % trump,    0.412 % biden, 2020-11-04T04:17:22Z
+biden votes fell by 747 in kansas
+Prior =  1082528 votes,     0.55 % trump,    0.424 % biden, 2020-11-04T04:39:10Z
+Later =  1083319 votes,    0.551 % trump,    0.423 % biden, 2020-11-04T04:41:46Z
+biden votes fell by 464 in kansas
+Prior =  1090300 votes,    0.552 % trump,    0.422 % biden, 2020-11-04T04:45:23Z
+Later =  1091785 votes,    0.553 % trump,    0.421 % biden, 2020-11-04T04:47:03Z
+biden votes fell by 364 in kansas
+Prior =  1136390 votes,    0.561 % trump,    0.414 % biden, 2020-11-04T05:26:28Z
+Later =  1138258 votes,    0.561 % trump,    0.413 % biden, 2020-11-04T05:27:11Z
+biden votes fell by 141 in kansas
+Prior =  1143870 votes,    0.562 % trump,    0.412 % biden, 2020-11-04T05:47:14Z
+Later =  1146308 votes,    0.563 % trump,    0.411 % biden, 2020-11-04T05:49:30Z
+biden votes fell by 553 in kansas
+Prior =  1149061 votes,    0.563 % trump,    0.411 % biden, 2020-11-04T05:57:43Z
+Later =  1150514 votes,    0.564 % trump,     0.41 % biden, 2020-11-04T06:00:08Z
+biden votes fell by 35 in kansas
+Prior =  1165670 votes,    0.566 % trump,    0.408 % biden, 2020-11-04T06:21:53Z
+Later =  1168446 votes,    0.567 % trump,    0.407 % biden, 2020-11-04T06:27:08Z
+biden votes fell by 424 in kansas
+Prior =  1174929 votes,    0.568 % trump,    0.407 % biden, 2020-11-04T06:37:11Z
+Later =  1176776 votes,    0.568 % trump,    0.406 % biden, 2020-11-04T06:48:34Z
+biden votes fell by 394 in kansas
+Prior =  1263958 votes,    0.557 % trump,    0.417 % biden, 2020-11-04T18:02:30Z
+Later =  1266047 votes,    0.558 % trump,    0.416 % biden, 2020-11-04T18:12:18Z
+biden votes fell by 206 in kansas
+Prior =  1307748 votes,    0.566 % trump,    0.409 % biden, 2020-11-04T20:06:01Z
+Later =  1310445 votes,    0.566 % trump,    0.408 % biden, 2020-11-04T20:06:14Z
+biden votes fell by 259 in kentucky
+Prior =   866932 votes,     0.65 % trump,    0.335 % biden, 2020-11-04T01:06:52Z
+Later =   871360 votes,    0.651 % trump,    0.333 % biden, 2020-11-04T01:08:16Z
+biden votes fell by 1047 in kentucky
+Prior =  1260448 votes,    0.582 % trump,    0.403 % biden, 2020-11-04T01:17:14Z
+Later =  1260977 votes,    0.582 % trump,    0.402 % biden, 2020-11-04T01:17:41Z
+biden votes fell by 535 in kentucky
+Prior =  1309924 votes,     0.59 % trump,    0.395 % biden, 2020-11-04T01:24:51Z
+Later =  1311887 votes,     0.59 % trump,    0.394 % biden, 2020-11-04T01:25:27Z
+biden votes fell by 483 in kentucky
+Prior =  1591554 votes,    0.611 % trump,    0.373 % biden, 2020-11-04T01:48:54Z
+Later =  1594532 votes,    0.612 % trump,    0.372 % biden, 2020-11-04T01:49:15Z
+biden votes fell by 164 in kentucky
+Prior =  1618537 votes,    0.614 % trump,     0.37 % biden, 2020-11-04T01:52:49Z
+Later =  1635800 votes,    0.619 % trump,    0.365 % biden, 2020-11-04T01:55:03Z
+biden votes fell by 462 in kentucky
+Prior =  1858259 votes,    0.623 % trump,    0.361 % biden, 2020-11-04T02:30:20Z
+Later =  1862135 votes,    0.623 % trump,     0.36 % biden, 2020-11-04T02:31:17Z
+biden votes fell by 90 in kentucky
+Prior =  1886806 votes,    0.624 % trump,     0.36 % biden, 2020-11-04T02:38:23Z
+Later =  1891809 votes,    0.625 % trump,    0.359 % biden, 2020-11-04T02:42:25Z
+biden votes fell by 534 in kentucky
+Prior =  1959352 votes,    0.625 % trump,    0.359 % biden, 2020-11-04T03:27:22Z
+Later =  1963331 votes,    0.625 % trump,    0.358 % biden, 2020-11-04T03:29:32Z
+TRUMP VOTES FELL BY 1990 in kentucky
+Prior =  2017423 votes,    0.625 % trump,    0.359 % biden, 2020-11-04T03:34:12Z
+Later =  2017467 votes,    0.624 % trump,    0.359 % biden, 2020-11-04T03:55:28Z
+TRUMP VOTES FELL BY 1952 in kentucky
+Prior =  2130971 votes,    0.626 % trump,    0.358 % biden, 2020-11-06T19:41:42Z
+Later =  2131257 votes,    0.625 % trump,    0.358 % biden, 2020-11-06T19:48:40Z
+TRUMP VOTES FELL BY 1507 in kentucky
+Prior =  2151217 votes,    0.623 % trump,    0.361 % biden, 2020-11-06T21:38:37Z
+Later =  2152252 votes,    0.622 % trump,    0.361 % biden, 2020-11-06T21:42:37Z
+biden votes fell by 601 in kentucky
+Prior =  2153401 votes,    0.622 % trump,    0.361 % biden, 2020-11-06T23:59:38Z
+Later =  2157710 votes,    0.622 % trump,     0.36 % biden, 2020-11-07T14:57:44Z
+TRUMP VOTES FELL BY 1455 in louisiana
+Prior =  1876812 votes,    0.617 % trump,    0.366 % biden, 2020-11-04T04:45:41Z
+Later =  1877496 votes,    0.616 % trump,    0.366 % biden, 2020-11-04T04:49:21Z
+TRUMP VOTES FELL BY 866 in louisiana
+Prior =  1896051 votes,    0.617 % trump,    0.366 % biden, 2020-11-04T04:50:54Z
+Later =  1897722 votes,    0.616 % trump,    0.366 % biden, 2020-11-04T05:01:07Z
+biden votes fell by 10 in maine
+Prior =   227143 votes,    0.467 % trump,      0.5 % biden, 2020-11-04T04:10:00Z
+Later =   227577 votes,    0.468 % trump,    0.499 % biden, 2020-11-04T04:14:13Z
+biden votes fell by 150 in maine
+Prior =   387650 votes,    0.463 % trump,    0.506 % biden, 2020-11-04T05:20:18Z
+Later =   388118 votes,    0.463 % trump,    0.505 % biden, 2020-11-04T05:20:34Z
+biden votes fell by 72 in maine
+Prior =   443058 votes,    0.457 % trump,    0.512 % biden, 2020-11-04T05:57:48Z
+Later =   443782 votes,    0.457 % trump,    0.511 % biden, 2020-11-04T05:58:33Z
+biden votes fell by 178 in maine
+Prior =   492857 votes,    0.449 % trump,     0.52 % biden, 2020-11-04T06:17:24Z
+Later =   493462 votes,    0.449 % trump,    0.519 % biden, 2020-11-04T06:18:31Z
+TOTAL VOTES FELL BY 35 in maine
+Nominal Change: Trump:     -14, Biden:      -19
+Prior =   620437 votes,    0.422 % trump,    0.547 % biden, 2020-11-04T12:46:02Z
+Later =   620402 votes,    0.422 % trump,    0.547 % biden, 2020-11-04T12:46:58Z
+biden votes fell by 89 in maine
+Prior =   655735 votes,    0.425 % trump,    0.544 % biden, 2020-11-04T16:40:59Z
+Later =   656776 votes,    0.425 % trump,    0.543 % biden, 2020-11-04T16:41:31Z
+biden votes fell by 384 in maine
+Prior =   660876 votes,    0.426 % trump,    0.543 % biden, 2020-11-04T17:03:00Z
+Later =   661384 votes,    0.426 % trump,    0.542 % biden, 2020-11-04T17:05:38Z
+TRUMP VOTES FELL BY 272 in maine
+Prior =   726785 votes,    0.431 % trump,    0.539 % biden, 2020-11-04T20:23:26Z
+Later =   727843 votes,     0.43 % trump,    0.539 % biden, 2020-11-04T20:27:00Z
+biden votes fell by 19 in maine
+Prior =   760887 votes,    0.432 % trump,    0.538 % biden, 2020-11-05T21:21:46Z
+Later =   762268 votes,    0.432 % trump,    0.537 % biden, 2020-11-05T21:27:11Z
+biden votes fell by 286 in maine
+Prior =   766288 votes,    0.432 % trump,    0.538 % biden, 2020-11-05T21:56:03Z
+Later =   767180 votes,    0.432 % trump,    0.537 % biden, 2020-11-05T23:44:09Z
+biden votes fell by 388 in maine
+Prior =   780194 votes,    0.434 % trump,    0.536 % biden, 2020-11-06T20:21:21Z
+Later =   780925 votes,    0.434 % trump,    0.535 % biden, 2020-11-06T22:48:08Z
+biden votes fell by 1590 in maryland
+Prior =  2058939 votes,    0.349 % trump,    0.633 % biden, 2020-11-04T05:13:56Z
+Later =  2059679 votes,    0.349 % trump,    0.632 % biden, 2020-11-04T05:15:13Z
+TRUMP VOTES FELL BY 203 in maryland
+Prior =  2078419 votes,    0.352 % trump,    0.629 % biden, 2020-11-04T05:53:14Z
+Later =  2107782 votes,    0.347 % trump,    0.636 % biden, 2020-11-04T11:46:51Z
+TRUMP VOTES FELL BY 1043 in massachusetts
+Prior =   240695 votes,    0.273 % trump,    0.704 % biden, 2020-11-04T02:28:34Z
+Later =   243109 votes,    0.265 % trump,    0.713 % biden, 2020-11-04T02:28:45Z
+TRUMP VOTES FELL BY 761 in massachusetts
+Prior =   792088 votes,    0.318 % trump,     0.66 % biden, 2020-11-04T03:25:53Z
+Later =   792187 votes,    0.317 % trump,     0.66 % biden, 2020-11-04T03:31:39Z
+biden votes fell by 436 in massachusetts
+Prior =  1324257 votes,    0.322 % trump,    0.655 % biden, 2020-11-04T04:03:41Z
+Later =  1325614 votes,    0.323 % trump,    0.654 % biden, 2020-11-04T04:04:06Z
+TRUMP VOTES FELL BY 1128 in massachusetts
+Prior =  1544494 votes,    0.317 % trump,    0.661 % biden, 2020-11-04T04:20:41Z
+Later =  1545813 votes,    0.316 % trump,    0.661 % biden, 2020-11-04T04:22:53Z
+TRUMP VOTES FELL BY 79 in massachusetts
+Prior =  2003758 votes,    0.325 % trump,    0.652 % biden, 2020-11-04T06:27:40Z
+Later =  2022179 votes,    0.322 % trump,    0.655 % biden, 2020-11-04T06:30:47Z
+TOTAL VOTES FELL BY 51 in massachusetts
+Nominal Change: Trump:     -17, Biden:      -34
+Prior =  3284373 votes,    0.321 % trump,    0.656 % biden, 2020-11-05T20:45:17Z
+Later =  3284322 votes,    0.321 % trump,    0.656 % biden, 2020-11-05T20:46:09Z
+TRUMP VOTES FELL BY 360 in massachusetts
+Prior =  3288495 votes,    0.322 % trump,    0.656 % biden, 2020-11-05T20:47:31Z
+Later =  3297618 votes,    0.321 % trump,    0.656 % biden, 2020-11-05T20:48:16Z
+biden votes fell by 156 in michigan
+Prior =   232274 votes,    0.575 % trump,    0.407 % biden, 2020-11-04T01:28:51Z
+Later =   232460 votes,    0.575 % trump,    0.406 % biden, 2020-11-04T01:32:32Z
+biden votes fell by 98 in michigan
+Prior =   284659 votes,    0.576 % trump,    0.406 % biden, 2020-11-04T01:39:31Z
+Later =   285117 votes,    0.576 % trump,    0.405 % biden, 2020-11-04T01:39:54Z
+TRUMP VOTES FELL BY 4845 in michigan
+Prior =   573857 votes,    0.578 % trump,    0.401 % biden, 2020-11-04T01:51:26Z
+Later =   574417 votes,    0.568 % trump,    0.406 % biden, 2020-11-04T01:51:52Z
+TRUMP VOTES FELL BY 543 in michigan
+Prior =   909244 votes,    0.594 % trump,    0.383 % biden, 2020-11-04T02:07:30Z
+Later =   909862 votes,    0.593 % trump,    0.383 % biden, 2020-11-04T02:07:41Z
+biden votes fell by 623 in michigan
+Prior =   958809 votes,    0.593 % trump,    0.384 % biden, 2020-11-04T02:11:23Z
+Later =   959682 votes,    0.593 % trump,    0.383 % biden, 2020-11-04T02:13:39Z
+biden votes fell by 524 in michigan
+Prior =  1099049 votes,    0.587 % trump,    0.391 % biden, 2020-11-04T02:37:34Z
+Later =  1100522 votes,    0.587 % trump,     0.39 % biden, 2020-11-04T02:38:51Z
+biden votes fell by 1493 in michigan
+Prior =  1627212 votes,    0.549 % trump,    0.433 % biden, 2020-11-04T03:14:34Z
+Later =  1627520 votes,    0.549 % trump,    0.432 % biden, 2020-11-04T03:16:05Z
+biden votes fell by 1127 in michigan
+Prior =  1722798 votes,    0.549 % trump,    0.433 % biden, 2020-11-04T03:18:31Z
+Later =  1724175 votes,    0.549 % trump,    0.432 % biden, 2020-11-04T03:20:47Z
+biden votes fell by 111 in michigan
+Prior =  2075572 votes,    0.547 % trump,    0.435 % biden, 2020-11-04T03:40:09Z
+Later =  2080095 votes,    0.548 % trump,    0.434 % biden, 2020-11-04T03:40:33Z
+biden votes fell by 1042 in michigan
+Prior =  2093322 votes,    0.548 % trump,    0.434 % biden, 2020-11-04T03:43:01Z
+Later =  2095746 votes,    0.549 % trump,    0.433 % biden, 2020-11-04T03:44:17Z
+biden votes fell by 1917 in michigan
+Prior =  2133558 votes,    0.547 % trump,    0.435 % biden, 2020-11-04T03:47:55Z
+Later =  2134055 votes,    0.547 % trump,    0.434 % biden, 2020-11-04T03:49:25Z
+biden votes fell by 1369 in michigan
+Prior =  2327829 votes,    0.546 % trump,    0.436 % biden, 2020-11-04T04:06:51Z
+Later =  2330031 votes,    0.546 % trump,    0.435 % biden, 2020-11-04T04:07:07Z
+biden votes fell by 1331 in michigan
+Prior =  2496176 votes,    0.545 % trump,    0.437 % biden, 2020-11-04T04:23:51Z
+Later =  2498845 votes,    0.545 % trump,    0.436 % biden, 2020-11-04T04:23:54Z
+biden votes fell by 199 in michigan
+Prior =  2602716 votes,    0.545 % trump,    0.437 % biden, 2020-11-04T04:42:41Z
+Later =  2608227 votes,    0.546 % trump,    0.436 % biden, 2020-11-04T04:43:00Z
+biden votes fell by 2315 in michigan
+Prior =  2617275 votes,    0.545 % trump,    0.437 % biden, 2020-11-04T04:43:58Z
+Later =  2617967 votes,    0.545 % trump,    0.436 % biden, 2020-11-04T04:44:05Z
+biden votes fell by 504 in michigan
+Prior =  2696164 votes,    0.543 % trump,    0.439 % biden, 2020-11-04T04:53:33Z
+Later =  2701165 votes,    0.543 % trump,    0.438 % biden, 2020-11-04T04:53:34Z
+biden votes fell by 136 in michigan
+Prior =  2908393 votes,    0.541 % trump,    0.442 % biden, 2020-11-04T05:10:46Z
+Later =  2914678 votes,    0.541 % trump,    0.441 % biden, 2020-11-04T05:11:44Z
+TRUMP VOTES FELL BY 268 in michigan
+Prior =  3232115 votes,    0.534 % trump,    0.449 % biden, 2020-11-04T05:53:51Z
+Later =  3237675 votes,    0.533 % trump,    0.449 % biden, 2020-11-04T05:53:56Z
+biden votes fell by 706 in michigan
+Prior =  3248160 votes,    0.533 % trump,    0.449 % biden, 2020-11-04T05:56:48Z
+Later =  3253831 votes,    0.534 % trump,    0.448 % biden, 2020-11-04T05:57:42Z
+biden votes fell by 2241 in michigan
+Prior =  3331621 votes,    0.535 % trump,    0.448 % biden, 2020-11-04T06:13:46Z
+Later =  3334059 votes,    0.535 % trump,    0.447 % biden, 2020-11-04T06:14:34Z
+TRUMP VOTES FELL BY 1929 in michigan
+Prior =  3475497 votes,    0.534 % trump,    0.449 % biden, 2020-11-04T06:38:18Z
+Later =  3478398 votes,    0.533 % trump,    0.449 % biden, 2020-11-04T06:38:47Z
+biden votes fell by 3225 in michigan
+Prior =  3495359 votes,    0.534 % trump,    0.449 % biden, 2020-11-04T06:39:37Z
+Later =  3495962 votes,    0.534 % trump,    0.448 % biden, 2020-11-04T06:39:53Z
+TRUMP VOTES FELL BY 2529 in michigan
+Prior =  3806695 votes,    0.532 % trump,    0.451 % biden, 2020-11-04T07:32:07Z
+Later =  3809102 votes,    0.531 % trump,    0.451 % biden, 2020-11-04T07:33:46Z
+biden votes fell by 2441 in michigan
+Prior =  4097222 votes,    0.529 % trump,    0.454 % biden, 2020-11-04T08:44:08Z
+Later =  4100876 votes,    0.529 % trump,    0.453 % biden, 2020-11-04T08:49:12Z
+biden votes fell by 2774 in michigan
+Prior =  4224666 votes,    0.519 % trump,    0.464 % biden, 2020-11-04T09:01:14Z
+Later =  4227799 votes,     0.52 % trump,    0.463 % biden, 2020-11-04T09:03:30Z
+biden votes fell by 2021 in michigan
+Prior =  4238302 votes,     0.52 % trump,    0.463 % biden, 2020-11-04T09:08:13Z
+Later =  4243099 votes,     0.52 % trump,    0.462 % biden, 2020-11-04T09:13:52Z
+biden votes fell by 3383 in michigan
+Prior =  4295810 votes,    0.519 % trump,    0.464 % biden, 2020-11-04T09:18:51Z
+Later =  4297778 votes,    0.519 % trump,    0.463 % biden, 2020-11-04T09:20:51Z
+TRUMP VOTES FELL BY 2429 in michigan
+Prior =  4297778 votes,    0.519 % trump,    0.463 % biden, 2020-11-04T09:20:51Z
+Later =  4301386 votes,    0.518 % trump,    0.464 % biden, 2020-11-04T09:23:48Z
+TRUMP VOTES FELL BY 4 in michigan
+Prior =  4345952 votes,     0.52 % trump,    0.463 % biden, 2020-11-04T09:53:50Z
+Later =  4354317 votes,    0.519 % trump,    0.463 % biden, 2020-11-04T09:56:35Z
+TRUMP VOTES FELL BY 3957 in michigan
+Prior =  5184544 votes,    0.489 % trump,    0.495 % biden, 2020-11-04T16:15:42Z
+Later =  5187059 votes,    0.488 % trump,    0.495 % biden, 2020-11-04T16:21:48Z
+TRUMP VOTES FELL BY 149 in michigan
+Prior =  5207177 votes,    0.489 % trump,    0.495 % biden, 2020-11-04T16:33:49Z
+Later =  5217543 votes,    0.488 % trump,    0.495 % biden, 2020-11-04T16:36:13Z
+TOTAL VOTES FELL BY 12437 in michigan
+Nominal Change: Trump:   -6057, Biden:    -6169
+Prior =  5303442 votes,    0.487 % trump,    0.496 % biden, 2020-11-04T17:53:12Z
+Later =  5291005 votes,    0.487 % trump,    0.496 % biden, 2020-11-04T18:23:51Z
+TRUMP VOTES FELL BY 2713 in michigan
+Prior =  5389498 votes,    0.486 % trump,    0.498 % biden, 2020-11-04T21:37:25Z
+Later =  5395016 votes,    0.485 % trump,    0.498 % biden, 2020-11-04T23:31:12Z
+TRUMP VOTES FELL BY 271 in michigan
+Prior =  5493400 votes,     0.48 % trump,    0.504 % biden, 2020-11-05T03:45:20Z
+Later =  5515817 votes,    0.478 % trump,    0.506 % biden, 2020-11-05T13:34:44Z
+TOTAL VOTES FELL BY 2796 in michigan
+Nominal Change: Trump:   -1340, Biden:    -1412
+Prior =  5533185 votes,    0.479 % trump,    0.505 % biden, 2020-11-06T17:46:36Z
+Later =  5530389 votes,    0.479 % trump,    0.505 % biden, 2020-11-06T18:11:31Z
+TRUMP VOTES FELL BY 1187 in minnesota
+Prior =  1425046 votes,    0.394 % trump,    0.586 % biden, 2020-11-04T03:56:42Z
+Later =  1425651 votes,    0.393 % trump,    0.586 % biden, 2020-11-04T03:58:32Z
+biden votes fell by 1085 in minnesota
+Prior =  1510693 votes,    0.394 % trump,    0.577 % biden, 2020-11-04T04:00:55Z
+Later =  1511429 votes,    0.394 % trump,    0.576 % biden, 2020-11-04T04:06:06Z
+biden votes fell by 876 in minnesota
+Prior =  1582143 votes,    0.406 % trump,    0.574 % biden, 2020-11-04T04:11:40Z
+Later =  1583375 votes,    0.407 % trump,    0.573 % biden, 2020-11-04T04:14:11Z
+TRUMP VOTES FELL BY 1579 in minnesota
+Prior =  1583375 votes,    0.407 % trump,    0.573 % biden, 2020-11-04T04:14:11Z
+Later =  1583386 votes,    0.406 % trump,    0.573 % biden, 2020-11-04T04:16:57Z
+biden votes fell by 684 in minnesota
+Prior =  1828784 votes,    0.421 % trump,    0.559 % biden, 2020-11-04T04:23:03Z
+Later =  1830835 votes,    0.421 % trump,    0.558 % biden, 2020-11-04T04:24:09Z
+biden votes fell by 1752 in minnesota
+Prior =  1836647 votes,    0.421 % trump,    0.559 % biden, 2020-11-04T04:28:34Z
+Later =  1836796 votes,    0.421 % trump,    0.558 % biden, 2020-11-04T04:31:23Z
+biden votes fell by 359 in minnesota
+Prior =  2042773 votes,    0.434 % trump,    0.545 % biden, 2020-11-04T04:33:47Z
+Later =  2045867 votes,    0.435 % trump,    0.544 % biden, 2020-11-04T04:34:57Z
+biden votes fell by 342 in minnesota
+Prior =  2066402 votes,    0.436 % trump,    0.543 % biden, 2020-11-04T04:37:23Z
+Later =  2069583 votes,    0.437 % trump,    0.542 % biden, 2020-11-04T04:37:38Z
+TOTAL VOTES FELL BY 194846 in minnesota
+Nominal Change: Trump: -107663, Biden:   -81215
+Prior =  2071091 votes,    0.437 % trump,    0.542 % biden, 2020-11-04T04:37:55Z
+Later =  1876245 votes,    0.425 % trump,    0.555 % biden, 2020-11-04T04:38:43Z
+biden votes fell by 2929 in minnesota
+Prior =  3201990 votes,    0.454 % trump,    0.526 % biden, 2020-11-04T15:58:51Z
+Later =  3202507 votes,    0.454 % trump,    0.525 % biden, 2020-11-04T16:18:51Z
+biden votes fell by 1478 in minnesota
+Prior =  3223830 votes,    0.454 % trump,    0.526 % biden, 2020-11-04T22:08:49Z
+Later =  3227153 votes,    0.454 % trump,    0.525 % biden, 2020-11-04T22:18:49Z
+biden votes fell by 46 in mississippi
+Prior =   680835 votes,    0.614 % trump,    0.371 % biden, 2020-11-04T05:03:26Z
+Later =   682547 votes,    0.614 % trump,     0.37 % biden, 2020-11-04T05:04:21Z
+TRUMP VOTES FELL BY 114 in mississippi
+Prior =   863369 votes,    0.621 % trump,    0.364 % biden, 2020-11-04T06:57:48Z
+Later =   864578 votes,     0.62 % trump,    0.364 % biden, 2020-11-04T06:58:35Z
+biden votes fell by 32 in missouri
+Prior =   510198 votes,    0.419 % trump,    0.569 % biden, 2020-11-04T02:25:07Z
+Later =   511037 votes,     0.42 % trump,    0.568 % biden, 2020-11-04T02:25:47Z
+TOTAL VOTES FELL BY 20729 in missouri
+Nominal Change: Trump:  -16681, Biden:    -6201
+Prior =  2547002 votes,    0.561 % trump,    0.421 % biden, 2020-11-04T04:44:53Z
+Later =  2526273 votes,    0.559 % trump,    0.422 % biden, 2020-11-04T04:47:25Z
+biden votes fell by 139 in missouri
+Prior =  2564688 votes,    0.562 % trump,     0.42 % biden, 2020-11-04T04:50:23Z
+Later =  2570474 votes,    0.562 % trump,    0.419 % biden, 2020-11-04T04:55:16Z
+biden votes fell by 1904 in missouri
+Prior =  2571858 votes,    0.562 % trump,     0.42 % biden, 2020-11-04T04:58:03Z
+Later =  2573449 votes,    0.563 % trump,    0.419 % biden, 2020-11-04T04:58:18Z
+biden votes fell by 33 in montana
+Prior =   310863 votes,    0.506 % trump,    0.465 % biden, 2020-11-04T05:39:30Z
+Later =   311461 votes,    0.507 % trump,    0.464 % biden, 2020-11-04T05:41:37Z
+TRUMP VOTES FELL BY 32 in montana
+Prior =   324818 votes,    0.517 % trump,    0.455 % biden, 2020-11-04T05:50:38Z
+Later =   325385 votes,    0.516 % trump,    0.455 % biden, 2020-11-04T05:50:50Z
+biden votes fell by 96 in montana
+Prior =   416089 votes,    0.542 % trump,     0.43 % biden, 2020-11-04T06:46:48Z
+Later =   416833 votes,    0.542 % trump,    0.429 % biden, 2020-11-04T06:50:59Z
+biden votes fell by 208 in montana
+Prior =   422639 votes,    0.546 % trump,    0.426 % biden, 2020-11-04T06:53:24Z
+Later =   423142 votes,    0.547 % trump,    0.425 % biden, 2020-11-04T06:55:31Z
+biden votes fell by 42 in montana
+Prior =   512704 votes,    0.548 % trump,    0.424 % biden, 2020-11-04T09:23:21Z
+Later =   513814 votes,    0.548 % trump,    0.423 % biden, 2020-11-04T09:28:04Z
+biden votes fell by 34 in montana
+Prior =   513814 votes,    0.548 % trump,    0.423 % biden, 2020-11-04T09:28:04Z
+Later =   514950 votes,    0.549 % trump,    0.422 % biden, 2020-11-04T09:31:32Z
+TOTAL VOTES FELL BY 1276 in montana
+Nominal Change: Trump:   -2298, Biden:      528
+Prior =   531453 votes,    0.555 % trump,    0.417 % biden, 2020-11-04T11:55:25Z
+Later =   530177 votes,    0.552 % trump,    0.419 % biden, 2020-11-04T11:56:04Z
+biden votes fell by 373 in montana
+Prior =   597690 votes,    0.565 % trump,    0.406 % biden, 2020-11-05T20:22:19Z
+Later =   598244 votes,    0.565 % trump,    0.405 % biden, 2020-11-05T20:30:17Z
+biden votes fell by 184 in nebraska
+Prior =   251344 votes,    0.475 % trump,    0.505 % biden, 2020-11-04T02:19:54Z
+Later =   251975 votes,    0.474 % trump,    0.503 % biden, 2020-11-04T02:20:35Z
+biden votes fell by 100 in nebraska
+Prior =   363089 votes,    0.502 % trump,    0.476 % biden, 2020-11-04T03:03:33Z
+Later =   363642 votes,    0.503 % trump,    0.475 % biden, 2020-11-04T03:06:01Z
+biden votes fell by 4 in nebraska
+Prior =   551028 votes,    0.535 % trump,    0.444 % biden, 2020-11-04T04:17:29Z
+Later =   552260 votes,    0.535 % trump,    0.443 % biden, 2020-11-04T04:20:22Z
+biden votes fell by 2 in nebraska
+Prior =   789364 votes,    0.558 % trump,    0.421 % biden, 2020-11-04T05:52:35Z
+Later =   793126 votes,    0.559 % trump,    0.419 % biden, 2020-11-04T05:56:24Z
+biden votes fell by 363 in nebraska
+Prior =   876148 votes,    0.576 % trump,    0.403 % biden, 2020-11-04T08:10:48Z
+Later =   877422 votes,    0.576 % trump,    0.402 % biden, 2020-11-04T08:15:48Z
+biden votes fell by 22793 in nebraska
+Prior =   926348 votes,    0.587 % trump,    0.391 % biden, 2020-11-06T15:11:02Z
+Later =   940208 votes,    0.617 % trump,     0.36 % biden, 2020-11-07T00:44:14Z
+TRUMP VOTES FELL BY 29146 in nebraska
+Prior =   940208 votes,    0.617 % trump,     0.36 % biden, 2020-11-07T00:44:14Z
+Later =   940208 votes,    0.585 % trump,    0.391 % biden, 2020-11-07T00:47:20Z
+biden votes fell by 374 in nevada
+Prior =  1259022 votes,    0.481 % trump,    0.498 % biden, 2020-11-06T17:48:41Z
+Later =  1260800 votes,    0.481 % trump,    0.497 % biden, 2020-11-06T18:03:42Z
+biden votes fell by 60 in new-hampshire
+Prior =   339096 votes,    0.448 % trump,    0.539 % biden, 2020-11-04T04:03:44Z
+Later =   339612 votes,    0.449 % trump,    0.538 % biden, 2020-11-04T04:05:07Z
+biden votes fell by 291 in new-hampshire
+Prior =   494519 votes,    0.452 % trump,    0.534 % biden, 2020-11-04T05:33:49Z
+Later =   494900 votes,    0.452 % trump,    0.533 % biden, 2020-11-04T05:38:24Z
+biden votes fell by 52 in new-hampshire
+Prior =   509519 votes,    0.451 % trump,    0.534 % biden, 2020-11-04T06:15:04Z
+Later =   510376 votes,    0.452 % trump,    0.533 % biden, 2020-11-04T06:18:25Z
+TRUMP VOTES FELL BY 512 in new-hampshire
+Prior =   606141 votes,     0.45 % trump,    0.531 % biden, 2020-11-04T08:03:20Z
+Later =   606350 votes,    0.449 % trump,    0.531 % biden, 2020-11-04T08:38:07Z
+biden votes fell by 168 in new-hampshire
+Prior =   658183 votes,    0.452 % trump,    0.529 % biden, 2020-11-04T22:58:31Z
+Later =   659109 votes,    0.452 % trump,    0.528 % biden, 2020-11-04T23:19:41Z
+TRUMP VOTES FELL BY 77 in new-hampshire
+Prior =   663483 votes,    0.453 % trump,    0.528 % biden, 2020-11-04T23:33:42Z
+Later =   664781 votes,    0.452 % trump,    0.528 % biden, 2020-11-05T00:07:58Z
+TRUMP VOTES FELL BY 385 in new-hampshire
+Prior =   755861 votes,    0.452 % trump,    0.529 % biden, 2020-11-05T03:08:07Z
+Later =   756684 votes,    0.451 % trump,    0.529 % biden, 2020-11-05T03:10:10Z
+biden votes fell by 202 in new-hampshire
+Prior =   790616 votes,    0.454 % trump,    0.527 % biden, 2020-11-05T04:06:33Z
+Later =   791733 votes,    0.454 % trump,    0.526 % biden, 2020-11-05T04:09:09Z
+TOTAL VOTES FELL BY 90 in new-hampshire
+Nominal Change: Trump:     -41, Biden:      -47
+Prior =   799072 votes,    0.455 % trump,    0.526 % biden, 2020-11-05T04:19:06Z
+Later =   798982 votes,    0.455 % trump,    0.526 % biden, 2020-11-06T00:52:32Z
+TRUMP VOTES FELL BY 77001 in new-jersey
+Prior =  2566724 votes,    0.413 % trump,    0.574 % biden, 2020-11-04T03:21:03Z
+Later =  2566724 votes,    0.382 % trump,    0.605 % biden, 2020-11-04T03:25:44Z
+biden votes fell by 1341 in new-jersey
+Prior =  2745745 votes,    0.378 % trump,    0.609 % biden, 2020-11-04T04:26:30Z
+Later =  2748053 votes,    0.379 % trump,    0.608 % biden, 2020-11-04T04:33:22Z
+biden votes fell by 358 in new-jersey
+Prior =  3103844 votes,    0.388 % trump,    0.599 % biden, 2020-11-05T20:56:37Z
+Later =  3108434 votes,    0.388 % trump,    0.598 % biden, 2020-11-05T21:15:58Z
+biden votes fell by 1850 in new-jersey
+Prior =  3269904 votes,    0.392 % trump,    0.595 % biden, 2020-11-06T15:45:04Z
+Later =  3272292 votes,    0.392 % trump,    0.594 % biden, 2020-11-06T15:48:18Z
+biden votes fell by 685 in new-jersey
+Prior =  3333686 votes,    0.396 % trump,    0.591 % biden, 2020-11-06T18:48:00Z
+Later =  3338173 votes,    0.396 % trump,     0.59 % biden, 2020-11-06T18:58:14Z
+TOTAL VOTES FELL BY 20 in new-jersey
+Nominal Change: Trump:      -8, Biden:      -12
+Prior =  3370027 votes,    0.397 % trump,     0.59 % biden, 2020-11-06T22:26:09Z
+Later =  3370007 votes,    0.397 % trump,     0.59 % biden, 2020-11-06T22:26:44Z
+biden votes fell by 2522 in new-jersey
+Prior =  3370007 votes,    0.397 % trump,     0.59 % biden, 2020-11-06T22:26:44Z
+Later =  3371446 votes,    0.397 % trump,    0.589 % biden, 2020-11-06T22:29:06Z
+biden votes fell by 157 in new-mexico
+Prior =   514638 votes,    0.431 % trump,     0.55 % biden, 2020-11-04T03:17:42Z
+Later =   515286 votes,    0.431 % trump,    0.549 % biden, 2020-11-04T03:18:25Z
+biden votes fell by 169 in new-mexico
+Prior =   570801 votes,     0.44 % trump,     0.54 % biden, 2020-11-04T03:46:56Z
+Later =   571544 votes,     0.44 % trump,    0.539 % biden, 2020-11-04T03:55:02Z
+TRUMP VOTES FELL BY 269 in new-mexico
+Prior =   911678 votes,    0.439 % trump,    0.539 % biden, 2020-11-04T07:35:49Z
+Later =   913147 votes,    0.438 % trump,     0.54 % biden, 2020-11-04T07:45:50Z
+TOTAL VOTES FELL BY 4610 in new-mexico
+Nominal Change: Trump:   -2010, Biden:    -2499
+Prior =   922516 votes,    0.436 % trump,    0.542 % biden, 2020-11-06T02:00:41Z
+Later =   917906 votes,    0.436 % trump,    0.542 % biden, 2020-11-06T20:47:18Z
+biden votes fell by 252 in new-york
+Prior =  1817053 votes,    0.268 % trump,    0.724 % biden, 2020-11-04T02:46:57Z
+Later =  1819217 votes,    0.269 % trump,    0.723 % biden, 2020-11-04T02:47:45Z
+TRUMP VOTES FELL BY 7 in new-york
+Prior =  1849391 votes,    0.269 % trump,    0.723 % biden, 2020-11-04T02:51:51Z
+Later =  1856264 votes,    0.268 % trump,    0.724 % biden, 2020-11-04T02:52:29Z
+TRUMP VOTES FELL BY 133 in new-york
+Prior =  2587049 votes,    0.307 % trump,    0.684 % biden, 2020-11-04T03:12:33Z
+Later =  2595069 votes,    0.306 % trump,    0.684 % biden, 2020-11-04T03:12:46Z
+TRUMP VOTES FELL BY 80 in new-york
+Prior =  2983503 votes,    0.341 % trump,    0.648 % biden, 2020-11-04T03:23:20Z
+Later =  2992043 votes,     0.34 % trump,    0.648 % biden, 2020-11-04T03:24:08Z
+TRUMP VOTES FELL BY 591 in new-york
+Prior =  3491763 votes,    0.359 % trump,     0.63 % biden, 2020-11-04T03:37:17Z
+Later =  3499865 votes,    0.358 % trump,     0.63 % biden, 2020-11-04T03:39:39Z
+TRUMP VOTES FELL BY 528 in new-york
+Prior =  3561464 votes,    0.358 % trump,    0.631 % biden, 2020-11-04T03:47:36Z
+Later =  3569962 votes,    0.357 % trump,    0.631 % biden, 2020-11-04T03:47:56Z
+TRUMP VOTES FELL BY 1605 in new-york
+Prior =  4437888 votes,    0.389 % trump,    0.599 % biden, 2020-11-04T03:53:17Z
+Later =  4445188 votes,    0.388 % trump,      0.6 % biden, 2020-11-04T03:54:07Z
+biden votes fell by 535 in new-york
+Prior =  4445188 votes,    0.388 % trump,      0.6 % biden, 2020-11-04T03:54:07Z
+Later =  4451714 votes,    0.389 % trump,    0.599 % biden, 2020-11-04T03:55:33Z
+TRUMP VOTES FELL BY 708 in new-york
+Prior =  4739424 votes,    0.393 % trump,    0.595 % biden, 2020-11-04T03:57:01Z
+Later =  4749708 votes,    0.392 % trump,    0.595 % biden, 2020-11-04T03:57:34Z
+TRUMP VOTES FELL BY 4538 in new-york
+Prior =  4933265 votes,    0.399 % trump,    0.589 % biden, 2020-11-04T04:06:26Z
+Later =  4934258 votes,    0.398 % trump,    0.589 % biden, 2020-11-04T04:07:05Z
+TRUMP VOTES FELL BY 4190 in new-york
+Prior =  5004082 votes,    0.399 % trump,    0.588 % biden, 2020-11-04T04:13:14Z
+Later =  5006127 votes,    0.398 % trump,    0.589 % biden, 2020-11-04T04:13:33Z
+biden votes fell by 4786 in new-york
+Prior =  5006587 votes,    0.398 % trump,    0.589 % biden, 2020-11-04T04:13:54Z
+Later =  5006960 votes,    0.398 % trump,    0.588 % biden, 2020-11-04T04:17:07Z
+TRUMP VOTES FELL BY 2360 in new-york
+Prior =  5380189 votes,    0.411 % trump,    0.576 % biden, 2020-11-04T04:26:57Z
+Later =  5387555 votes,     0.41 % trump,    0.576 % biden, 2020-11-04T04:29:24Z
+TRUMP VOTES FELL BY 3384 in new-york
+Prior =  5387555 votes,     0.41 % trump,    0.576 % biden, 2020-11-04T04:29:24Z
+Later =  5743527 votes,    0.384 % trump,    0.603 % biden, 2020-11-04T04:30:54Z
+biden votes fell by 2532 in new-york
+Prior =  5820920 votes,    0.386 % trump,    0.602 % biden, 2020-11-04T04:36:28Z
+Later =  5826390 votes,    0.386 % trump,    0.601 % biden, 2020-11-04T04:37:25Z
+biden votes fell by 3422 in new-york
+Prior =  6918140 votes,    0.401 % trump,    0.586 % biden, 2020-11-04T05:25:55Z
+Later =  6924115 votes,    0.401 % trump,    0.585 % biden, 2020-11-04T05:27:43Z
+biden votes fell by 1783 in north-carolina
+Prior =  4539820 votes,    0.479 % trump,     0.51 % biden, 2020-11-04T02:10:12Z
+Later =  4545234 votes,    0.479 % trump,    0.509 % biden, 2020-11-04T02:11:06Z
+biden votes fell by 1265 in north-carolina
+Prior =  4635214 votes,    0.482 % trump,    0.507 % biden, 2020-11-04T02:15:52Z
+Later =  4641872 votes,    0.482 % trump,    0.506 % biden, 2020-11-04T02:17:18Z
+biden votes fell by 3483 in north-carolina
+Prior =  5224577 votes,    0.496 % trump,    0.492 % biden, 2020-11-04T03:13:45Z
+Later =  5228122 votes,    0.497 % trump,    0.491 % biden, 2020-11-04T03:18:00Z
+TRUMP VOTES FELL BY 4464 in north-carolina
+Prior =  5457588 votes,    0.501 % trump,    0.487 % biden, 2020-11-04T21:40:09Z
+Later =  5459577 votes,      0.5 % trump,    0.486 % biden, 2020-11-05T16:45:12Z
+biden votes fell by 4490 in north-carolina
+Prior =  5457588 votes,    0.501 % trump,    0.487 % biden, 2020-11-04T21:40:09Z
+Later =  5459577 votes,      0.5 % trump,    0.486 % biden, 2020-11-05T16:45:12Z
+biden votes fell by 208 in ohio
+Prior =   484511 votes,    0.304 % trump,    0.685 % biden, 2020-11-04T00:43:31Z
+Later =   484914 votes,    0.305 % trump,    0.684 % biden, 2020-11-04T00:44:11Z
+biden votes fell by 32 in ohio
+Prior =  2784136 votes,    0.443 % trump,    0.545 % biden, 2020-11-04T01:31:31Z
+Later =  2789194 votes,    0.444 % trump,    0.544 % biden, 2020-11-04T01:32:55Z
+biden votes fell by 186 in ohio
+Prior =  3306684 votes,    0.451 % trump,    0.537 % biden, 2020-11-04T01:59:32Z
+Later =  3312505 votes,    0.451 % trump,    0.536 % biden, 2020-11-04T01:59:53Z
+biden votes fell by 1355 in ohio
+Prior =  3393061 votes,    0.457 % trump,    0.531 % biden, 2020-11-04T02:03:04Z
+Later =  3396904 votes,    0.457 % trump,     0.53 % biden, 2020-11-04T02:03:53Z
+biden votes fell by 161 in ohio
+Prior =  3696835 votes,    0.475 % trump,    0.512 % biden, 2020-11-04T02:20:44Z
+Later =  3703752 votes,    0.476 % trump,    0.511 % biden, 2020-11-04T02:22:05Z
+TRUMP VOTES FELL BY 5120 in ohio
+Prior =  5204731 votes,    0.528 % trump,    0.458 % biden, 2020-11-04T03:51:31Z
+Later =  5204892 votes,    0.527 % trump,    0.458 % biden, 2020-11-04T03:52:26Z
+biden votes fell by 2679 in ohio
+Prior =  5235269 votes,    0.528 % trump,    0.458 % biden, 2020-11-04T03:55:33Z
+Later =  5240860 votes,    0.528 % trump,    0.457 % biden, 2020-11-04T03:56:46Z
+TRUMP VOTES FELL BY 5234 in ohio
+Prior =  5388296 votes,    0.531 % trump,    0.455 % biden, 2020-11-04T04:15:02Z
+Later =  5388586 votes,     0.53 % trump,    0.455 % biden, 2020-11-04T04:15:57Z
+TRUMP VOTES FELL BY 4805 in ohio
+Prior =  5629648 votes,    0.534 % trump,    0.452 % biden, 2020-11-04T05:09:38Z
+Later =  5631195 votes,    0.533 % trump,    0.451 % biden, 2020-11-04T05:12:29Z
+biden votes fell by 4931 in ohio
+Prior =  5629648 votes,    0.534 % trump,    0.452 % biden, 2020-11-04T05:09:38Z
+Later =  5631195 votes,    0.533 % trump,    0.451 % biden, 2020-11-04T05:12:29Z
+TRUMP VOTES FELL BY 4610 in ohio
+Prior =  5659124 votes,    0.534 % trump,    0.451 % biden, 2020-11-04T05:49:24Z
+Later =  5661091 votes,    0.533 % trump,    0.451 % biden, 2020-11-04T05:53:11Z
+biden votes fell by 315 in oklahoma
+Prior =   802804 votes,    0.607 % trump,    0.372 % biden, 2020-11-04T02:11:02Z
+Later =   804117 votes,    0.607 % trump,    0.371 % biden, 2020-11-04T02:12:02Z
+biden votes fell by 81 in oklahoma
+Prior =  1288737 votes,    0.651 % trump,    0.326 % biden, 2020-11-04T02:59:33Z
+Later =  1292450 votes,    0.652 % trump,    0.325 % biden, 2020-11-04T03:00:32Z
+biden votes fell by 701 in oklahoma
+Prior =  1328167 votes,    0.654 % trump,    0.324 % biden, 2020-11-04T03:11:02Z
+Later =  1330107 votes,    0.654 % trump,    0.323 % biden, 2020-11-04T03:11:30Z
+biden votes fell by 230 in oklahoma
+Prior =  1533321 votes,    0.653 % trump,    0.324 % biden, 2020-11-04T04:54:32Z
+Later =  1537356 votes,    0.653 % trump,    0.323 % biden, 2020-11-04T05:10:11Z
+biden votes fell by 2 in oregon
+Prior =   678445 votes,    0.299 % trump,    0.676 % biden, 2020-11-04T04:14:58Z
+Later =   679445 votes,      0.3 % trump,    0.675 % biden, 2020-11-04T04:19:14Z
+biden votes fell by 1262 in oregon
+Prior =  1902668 votes,    0.385 % trump,     0.59 % biden, 2020-11-04T04:36:25Z
+Later =  1903754 votes,    0.385 % trump,    0.589 % biden, 2020-11-04T04:37:19Z
+biden votes fell by 150 in oregon
+Prior =  1903823 votes,    0.385 % trump,    0.589 % biden, 2020-11-04T04:37:37Z
+Later =  1906803 votes,    0.385 % trump,    0.588 % biden, 2020-11-04T04:40:07Z
+TRUMP VOTES FELL BY 1224 in oregon
+Prior =  1969724 votes,    0.391 % trump,    0.583 % biden, 2020-11-04T05:01:34Z
+Later =  1971636 votes,     0.39 % trump,    0.583 % biden, 2020-11-04T05:05:30Z
+TRUMP VOTES FELL BY 1333 in oregon
+Prior =  2029375 votes,    0.392 % trump,    0.581 % biden, 2020-11-04T06:30:53Z
+Later =  2031155 votes,    0.391 % trump,    0.581 % biden, 2020-11-04T06:31:54Z
+TOTAL VOTES FELL BY 66 in pennsylvania
+Nominal Change: Trump:     -29, Biden:      -37
+Prior =       77 votes,    0.429 % trump,    0.571 % biden, 2020-11-04T00:19:27Z
+Later =       11 votes,    0.364 % trump,    0.636 % biden, 2020-11-04T00:42:45Z
+biden votes fell by 143 in pennsylvania
+Prior =   219166 votes,    0.169 % trump,    0.822 % biden, 2020-11-04T01:17:19Z
+Later =   219258 votes,    0.169 % trump,    0.821 % biden, 2020-11-04T01:24:10Z
+biden votes fell by 87 in pennsylvania
+Prior =   306881 votes,    0.155 % trump,    0.836 % biden, 2020-11-04T01:29:03Z
+Later =   436908 votes,    0.407 % trump,    0.587 % biden, 2020-11-04T01:31:11Z
+TOTAL VOTES FELL BY 239804 in pennsylvania
+Nominal Change: Trump:  -42326, Biden:  -196432
+Prior =  1111586 votes,    0.351 % trump,    0.641 % biden, 2020-11-04T02:13:11Z
+Later =   871782 votes,    0.399 % trump,    0.592 % biden, 2020-11-04T02:14:32Z
+TOTAL VOTES FELL BY 114886 in pennsylvania
+Nominal Change: Trump: -127916, Biden:    12400
+Prior =   888907 votes,    0.406 % trump,    0.586 % biden, 2020-11-04T02:16:43Z
+Later =   774021 votes,    0.301 % trump,    0.689 % biden, 2020-11-04T02:17:03Z
+TOTAL VOTES FELL BY 586189 in pennsylvania
+Nominal Change: Trump: -145179, Biden:  -416589
+Prior =  1325632 votes,    0.312 % trump,    0.664 % biden, 2020-11-04T02:21:59Z
+Later =   739443 votes,    0.363 % trump,    0.627 % biden, 2020-11-04T02:22:45Z
+biden votes fell by 904 in pennsylvania
+Prior =   993848 votes,    0.428 % trump,     0.56 % biden, 2020-11-04T02:38:07Z
+Later =   994006 votes,    0.428 % trump,    0.559 % biden, 2020-11-04T02:38:19Z
+biden votes fell by 38 in pennsylvania
+Prior =  1143344 votes,    0.461 % trump,    0.526 % biden, 2020-11-04T02:47:35Z
+Later =  1145446 votes,    0.461 % trump,    0.525 % biden, 2020-11-04T02:47:57Z
+biden votes fell by 526 in pennsylvania
+Prior =  1348610 votes,    0.496 % trump,    0.491 % biden, 2020-11-04T02:55:22Z
+Later =  1350287 votes,    0.497 % trump,     0.49 % biden, 2020-11-04T02:55:34Z
+biden votes fell by 1668 in pennsylvania
+Prior =  1766074 votes,    0.531 % trump,    0.456 % biden, 2020-11-04T03:12:51Z
+Later =  1766286 votes,    0.531 % trump,    0.455 % biden, 2020-11-04T03:13:18Z
+biden votes fell by 426 in pennsylvania
+Prior =  2188865 votes,    0.534 % trump,    0.453 % biden, 2020-11-04T03:29:30Z
+Later =  2192763 votes,    0.534 % trump,    0.452 % biden, 2020-11-04T03:31:51Z
+biden votes fell by 771 in pennsylvania
+Prior =  2262723 votes,    0.539 % trump,    0.448 % biden, 2020-11-04T03:33:51Z
+Later =  2266058 votes,    0.539 % trump,    0.447 % biden, 2020-11-04T03:34:13Z
+TRUMP VOTES FELL BY 2141 in pennsylvania
+Prior =  2285961 votes,    0.539 % trump,    0.448 % biden, 2020-11-04T03:36:12Z
+Later =  2286231 votes,    0.538 % trump,    0.448 % biden, 2020-11-04T03:37:38Z
+biden votes fell by 355 in pennsylvania
+Prior =  2354114 votes,    0.543 % trump,    0.443 % biden, 2020-11-04T03:40:27Z
+Later =  2358634 votes,    0.544 % trump,    0.442 % biden, 2020-11-04T03:42:23Z
+biden votes fell by 2354 in pennsylvania
+Prior =  2914454 votes,    0.568 % trump,    0.416 % biden, 2020-11-04T03:59:27Z
+Later =  2915801 votes,    0.568 % trump,    0.415 % biden, 2020-11-04T04:00:36Z
+TRUMP VOTES FELL BY 14891 in pennsylvania
+Prior =  2984468 votes,    0.566 % trump,     0.42 % biden, 2020-11-04T04:07:43Z
+Later =  2984522 votes,     0.56 % trump,    0.426 % biden, 2020-11-04T04:08:51Z
+biden votes fell by 1509 in pennsylvania
+Prior =  3009814 votes,    0.561 % trump,    0.425 % biden, 2020-11-04T04:11:10Z
+Later =  3013351 votes,    0.562 % trump,    0.424 % biden, 2020-11-04T04:12:11Z
+biden votes fell by 2787 in pennsylvania
+Prior =  3581545 votes,    0.564 % trump,    0.422 % biden, 2020-11-04T04:41:32Z
+Later =  3583429 votes,    0.564 % trump,    0.421 % biden, 2020-11-04T04:41:57Z
+TRUMP VOTES FELL BY 853 in pennsylvania
+Prior =  4563780 votes,    0.568 % trump,    0.419 % biden, 2020-11-04T05:52:34Z
+Later =  4578399 votes,    0.566 % trump,     0.42 % biden, 2020-11-04T05:53:08Z
+biden votes fell by 3243 in pennsylvania
+Prior =  5080760 votes,    0.562 % trump,    0.425 % biden, 2020-11-04T07:06:51Z
+Later =  5085092 votes,    0.562 % trump,    0.424 % biden, 2020-11-04T07:08:49Z
+TRUMP VOTES FELL BY 2874 in pennsylvania
+Prior =  5392682 votes,    0.551 % trump,    0.436 % biden, 2020-11-04T10:54:40Z
+Later =  5397262 votes,     0.55 % trump,    0.436 % biden, 2020-11-04T14:16:51Z
+TRUMP VOTES FELL BY 3098 in pennsylvania
+Prior =  5436911 votes,    0.548 % trump,    0.439 % biden, 2020-11-04T14:54:50Z
+Later =  5441186 votes,    0.547 % trump,    0.439 % biden, 2020-11-04T15:00:52Z
+TRUMP VOTES FELL BY 118 in pennsylvania
+Prior =  5743489 votes,    0.534 % trump,    0.453 % biden, 2020-11-04T19:04:59Z
+Later =  5754044 votes,    0.533 % trump,    0.454 % biden, 2020-11-04T19:16:54Z
+TRUMP VOTES FELL BY 2220 in pennsylvania
+Prior =  5768295 votes,    0.533 % trump,    0.454 % biden, 2020-11-04T19:42:52Z
+Later =  5774964 votes,    0.532 % trump,    0.455 % biden, 2020-11-04T19:45:52Z
+TRUMP VOTES FELL BY 3096 in pennsylvania
+Prior =  5915452 votes,    0.524 % trump,    0.463 % biden, 2020-11-04T20:45:58Z
+Later =  5920844 votes,    0.523 % trump,    0.464 % biden, 2020-11-04T20:49:00Z
+TRUMP VOTES FELL BY 1257 in pennsylvania
+Prior =  6007751 votes,     0.52 % trump,    0.468 % biden, 2020-11-04T22:01:43Z
+Later =  6016906 votes,    0.519 % trump,    0.468 % biden, 2020-11-04T22:03:40Z
+biden votes fell by 4949 in pennsylvania
+Prior =  6028585 votes,    0.519 % trump,    0.469 % biden, 2020-11-04T22:18:53Z
+Later =  6030891 votes,    0.519 % trump,    0.468 % biden, 2020-11-04T22:19:53Z
+TRUMP VOTES FELL BY 577 in pennsylvania
+Prior =  6030891 votes,    0.519 % trump,    0.468 % biden, 2020-11-04T22:19:53Z
+Later =  6041418 votes,    0.518 % trump,    0.469 % biden, 2020-11-04T22:36:54Z
+biden votes fell by 4945 in pennsylvania
+Prior =  6055413 votes,    0.518 % trump,     0.47 % biden, 2020-11-04T22:41:51Z
+Later =  6057779 votes,    0.518 % trump,    0.469 % biden, 2020-11-04T22:42:49Z
+TRUMP VOTES FELL BY 1226 in pennsylvania
+Prior =  6059144 votes,    0.518 % trump,    0.469 % biden, 2020-11-04T22:52:52Z
+Later =  6068493 votes,    0.517 % trump,     0.47 % biden, 2020-11-04T22:54:49Z
+TRUMP VOTES FELL BY 3747 in pennsylvania
+Prior =  6104416 votes,    0.516 % trump,    0.472 % biden, 2020-11-04T23:12:52Z
+Later =  6108995 votes,    0.515 % trump,    0.472 % biden, 2020-11-04T23:14:52Z
+TRUMP VOTES FELL BY 863 in pennsylvania
+Prior =  6192283 votes,    0.513 % trump,    0.475 % biden, 2020-11-05T00:28:52Z
+Later =  6202692 votes,    0.512 % trump,    0.475 % biden, 2020-11-05T00:34:29Z
+TRUMP VOTES FELL BY 2208 in pennsylvania
+Prior =  6236205 votes,    0.511 % trump,    0.477 % biden, 2020-11-05T00:39:58Z
+Later =  6244104 votes,     0.51 % trump,    0.477 % biden, 2020-11-05T00:46:50Z
+TRUMP VOTES FELL BY 876 in pennsylvania
+Prior =  6266545 votes,     0.51 % trump,    0.478 % biden, 2020-11-05T01:03:50Z
+Later =  6277135 votes,    0.509 % trump,    0.478 % biden, 2020-11-05T01:20:52Z
+TRUMP VOTES FELL BY 1120 in pennsylvania
+Prior =  6288273 votes,    0.509 % trump,    0.478 % biden, 2020-11-05T02:18:57Z
+Later =  6298446 votes,    0.508 % trump,    0.479 % biden, 2020-11-05T02:44:56Z
+TRUMP VOTES FELL BY 2257 in pennsylvania
+Prior =  6351124 votes,    0.507 % trump,    0.481 % biden, 2020-11-05T13:58:46Z
+Later =  6371807 votes,    0.505 % trump,    0.482 % biden, 2020-11-05T14:04:26Z
+TRUMP VOTES FELL BY 5198 in pennsylvania
+Prior =  6427755 votes,    0.503 % trump,    0.485 % biden, 2020-11-05T18:12:45Z
+Later =  6430206 votes,    0.502 % trump,    0.485 % biden, 2020-11-05T18:18:46Z
+TRUMP VOTES FELL BY 2853 in pennsylvania
+Prior =  6451620 votes,    0.502 % trump,    0.485 % biden, 2020-11-05T20:44:39Z
+Later =  6458803 votes,    0.501 % trump,    0.486 % biden, 2020-11-05T21:03:39Z
+TRUMP VOTES FELL BY 4322 in pennsylvania
+Prior =  6525483 votes,      0.5 % trump,    0.488 % biden, 2020-11-05T23:14:13Z
+Later =  6529899 votes,    0.499 % trump,    0.488 % biden, 2020-11-05T23:26:53Z
+TRUMP VOTES FELL BY 6335 in pennsylvania
+Prior =  6547337 votes,    0.499 % trump,    0.489 % biden, 2020-11-06T00:12:10Z
+Later =  6547763 votes,    0.498 % trump,    0.489 % biden, 2020-11-06T00:20:12Z
+TRUMP VOTES FELL BY 2857 in pennsylvania
+Prior =  6571671 votes,    0.498 % trump,     0.49 % biden, 2020-11-06T01:32:40Z
+Later =  6579145 votes,    0.497 % trump,     0.49 % biden, 2020-11-06T01:50:36Z
+TRUMP VOTES FELL BY 2610 in pennsylvania
+Prior =  6600761 votes,    0.497 % trump,     0.49 % biden, 2020-11-06T03:12:40Z
+Later =  6608807 votes,    0.496 % trump,    0.491 % biden, 2020-11-06T03:32:40Z
+TRUMP VOTES FELL BY 4709 in pennsylvania
+Prior =  6622716 votes,    0.496 % trump,    0.492 % biden, 2020-11-06T03:42:34Z
+Later =  6626581 votes,    0.495 % trump,    0.492 % biden, 2020-11-06T04:28:44Z
+TOTAL VOTES FELL BY 280 in pennsylvania
+Nominal Change: Trump:    -139, Biden:     -138
+Prior =  6639262 votes,    0.495 % trump,    0.492 % biden, 2020-11-06T06:30:10Z
+Later =  6638982 votes,    0.495 % trump,    0.492 % biden, 2020-11-06T12:22:44Z
+TOTAL VOTES FELL BY 1 in pennsylvania
+Nominal Change: Trump:       0, Biden:        0
+Prior =  6701439 votes,    0.493 % trump,    0.495 % biden, 2020-11-06T21:24:40Z
+Later =  6701438 votes,    0.493 % trump,    0.495 % biden, 2020-11-06T21:25:07Z
+TRUMP VOTES FELL BY 6437 in pennsylvania
+Prior =  6704217 votes,    0.493 % trump,    0.495 % biden, 2020-11-06T23:24:40Z
+Later =  6704760 votes,    0.492 % trump,    0.495 % biden, 2020-11-06T23:38:39Z
+TRUMP VOTES FELL BY 5157 in pennsylvania
+Prior =  6728674 votes,    0.492 % trump,    0.496 % biden, 2020-11-07T02:40:18Z
+Later =  6731875 votes,    0.491 % trump,    0.496 % biden, 2020-11-07T03:40:45Z
+biden votes fell by 85 in rhode-island
+Prior =   173429 votes,    0.541 % trump,    0.439 % biden, 2020-11-04T01:45:58Z
+Later =   173628 votes,    0.541 % trump,    0.438 % biden, 2020-11-04T01:52:02Z
+TOTAL VOTES FELL BY 13 in rhode-island
+Nominal Change: Trump:      -7, Biden:       -7
+Prior =   267432 votes,    0.488 % trump,    0.495 % biden, 2020-11-04T04:24:39Z
+Later =   267419 votes,    0.488 % trump,    0.495 % biden, 2020-11-04T04:54:56Z
+TRUMP VOTES FELL BY 576 in south-carolina
+Prior =   390347 votes,    0.521 % trump,    0.466 % biden, 2020-11-04T01:49:58Z
+Later =   391495 votes,    0.517 % trump,    0.471 % biden, 2020-11-04T01:52:03Z
+TRUMP VOTES FELL BY 1812 in south-carolina
+Prior =  2466654 votes,    0.553 % trump,    0.433 % biden, 2020-11-05T15:14:45Z
+Later =  2467841 votes,    0.552 % trump,    0.433 % biden, 2020-11-05T17:05:53Z
+biden votes fell by 1921 in south-carolina
+Prior =  2507085 votes,    0.551 % trump,    0.435 % biden, 2020-11-06T19:04:38Z
+Later =  2508431 votes,    0.551 % trump,    0.434 % biden, 2020-11-06T19:06:39Z
+biden votes fell by 168 in south-dakota
+Prior =   245094 votes,    0.646 % trump,    0.328 % biden, 2020-11-04T04:18:15Z
+Later =   245326 votes,    0.646 % trump,    0.327 % biden, 2020-11-04T04:22:24Z
+TRUMP VOTES FELL BY 531 in south-dakota
+Prior =   266100 votes,    0.646 % trump,    0.328 % biden, 2020-11-04T04:38:46Z
+Later =   266100 votes,    0.643 % trump,     0.33 % biden, 2020-11-04T04:41:38Z
+biden votes fell by 77 in south-dakota
+Prior =   274773 votes,    0.644 % trump,     0.33 % biden, 2020-11-04T04:43:11Z
+Later =   275372 votes,    0.645 % trump,    0.329 % biden, 2020-11-04T04:43:45Z
+TRUMP VOTES FELL BY 287 in south-dakota
+Prior =   286999 votes,    0.649 % trump,    0.325 % biden, 2020-11-04T05:02:10Z
+Later =   286999 votes,    0.648 % trump,    0.327 % biden, 2020-11-04T05:03:52Z
+TRUMP VOTES FELL BY 43 in south-dakota
+Prior =   377224 votes,    0.641 % trump,    0.332 % biden, 2020-11-04T07:11:50Z
+Later =   377747 votes,     0.64 % trump,    0.333 % biden, 2020-11-04T07:15:15Z
+TRUMP VOTES FELL BY 52 in south-dakota
+Prior =   381097 votes,    0.641 % trump,    0.333 % biden, 2020-11-04T07:56:50Z
+Later =   381611 votes,     0.64 % trump,    0.333 % biden, 2020-11-04T08:20:53Z
+TRUMP VOTES FELL BY 167 in south-dakota
+Prior =   422227 votes,    0.617 % trump,    0.357 % biden, 2020-11-04T23:45:56Z
+Later =   422641 votes,    0.616 % trump,    0.357 % biden, 2020-11-04T23:51:50Z
+biden votes fell by 422 in south-dakota
+Prior =   422645 votes,    0.616 % trump,    0.357 % biden, 2020-11-05T14:35:45Z
+Later =   422646 votes,    0.618 % trump,    0.356 % biden, 2020-11-05T15:01:08Z
+biden votes fell by 318 in tennessee
+Prior =   476993 votes,    0.727 % trump,    0.261 % biden, 2020-11-04T01:27:57Z
+Later =   477602 votes,    0.727 % trump,     0.26 % biden, 2020-11-04T01:28:55Z
+biden votes fell by 935 in tennessee
+Prior =  1329596 votes,    0.616 % trump,    0.368 % biden, 2020-11-04T01:55:56Z
+Later =  1330670 votes,    0.616 % trump,    0.367 % biden, 2020-11-04T01:56:24Z
+biden votes fell by 983 in tennessee
+Prior =  2673241 votes,    0.605 % trump,    0.377 % biden, 2020-11-04T03:06:37Z
+Later =  2677732 votes,    0.605 % trump,    0.376 % biden, 2020-11-04T03:08:46Z
+biden votes fell by 2316 in tennessee
+Prior =  2794227 votes,    0.609 % trump,    0.373 % biden, 2020-11-04T03:43:51Z
+Later =  2795509 votes,    0.609 % trump,    0.372 % biden, 2020-11-04T03:49:33Z
+biden votes fell by 182 in tennessee
+Prior =  2821108 votes,    0.611 % trump,    0.371 % biden, 2020-11-04T03:55:33Z
+Later =  2828238 votes,    0.611 % trump,     0.37 % biden, 2020-11-04T03:57:22Z
+TRUMP VOTES FELL BY 1980 in tennessee
+Prior =  2919975 votes,    0.611 % trump,     0.37 % biden, 2020-11-04T04:23:07Z
+Later =  2921517 votes,     0.61 % trump,     0.37 % biden, 2020-11-04T04:24:02Z
+TRUMP VOTES FELL BY 351 in tennessee
+Prior =  3005504 votes,    0.611 % trump,    0.369 % biden, 2020-11-04T05:31:37Z
+Later =  3009856 votes,     0.61 % trump,     0.37 % biden, 2020-11-04T05:45:31Z
+biden votes fell by 2840 in tennessee
+Prior =  3009856 votes,     0.61 % trump,     0.37 % biden, 2020-11-04T05:45:31Z
+Later =  3010312 votes,     0.61 % trump,    0.369 % biden, 2020-11-04T05:52:36Z
+biden votes fell by 1630 in texas
+Prior =  3039380 votes,    0.432 % trump,    0.555 % biden, 2020-11-04T01:15:03Z
+Later =  3047422 votes,    0.433 % trump,    0.553 % biden, 2020-11-04T01:15:28Z
+biden votes fell by 933 in texas
+Prior =  3758725 votes,    0.446 % trump,    0.541 % biden, 2020-11-04T01:16:35Z
+Later =  3763956 votes,    0.447 % trump,     0.54 % biden, 2020-11-04T01:16:58Z
+TRUMP VOTES FELL BY 797 in texas
+Prior =  3962378 votes,    0.461 % trump,    0.526 % biden, 2020-11-04T01:23:14Z
+Later =  3969258 votes,     0.46 % trump,    0.526 % biden, 2020-11-04T01:24:45Z
+biden votes fell by 7118 in texas
+Prior =  7175487 votes,    0.478 % trump,    0.509 % biden, 2020-11-04T01:42:46Z
+Later =  7175598 votes,    0.478 % trump,    0.508 % biden, 2020-11-04T01:42:55Z
+TRUMP VOTES FELL BY 6219 in texas
+Prior =  7526283 votes,    0.488 % trump,    0.499 % biden, 2020-11-04T01:57:04Z
+Later =  7528967 votes,    0.487 % trump,    0.498 % biden, 2020-11-04T02:00:12Z
+biden votes fell by 6189 in texas
+Prior =  7526283 votes,    0.488 % trump,    0.499 % biden, 2020-11-04T01:57:04Z
+Later =  7528967 votes,    0.487 % trump,    0.498 % biden, 2020-11-04T02:00:12Z
+biden votes fell by 6360 in texas
+Prior =  7603943 votes,     0.49 % trump,    0.496 % biden, 2020-11-04T02:10:51Z
+Later =  7606454 votes,     0.49 % trump,    0.495 % biden, 2020-11-04T02:12:03Z
+biden votes fell by 1946 in texas
+Prior =  8489342 votes,    0.494 % trump,    0.493 % biden, 2020-11-04T02:29:53Z
+Later =  8502640 votes,    0.494 % trump,    0.492 % biden, 2020-11-04T02:33:54Z
+biden votes fell by 5370 in texas
+Prior =  8749687 votes,    0.499 % trump,    0.487 % biden, 2020-11-04T02:44:28Z
+Later =  8756639 votes,      0.5 % trump,    0.486 % biden, 2020-11-04T02:45:42Z
+biden votes fell by 5409 in texas
+Prior =  9169166 votes,    0.508 % trump,    0.478 % biden, 2020-11-04T03:16:53Z
+Later =  9177048 votes,    0.508 % trump,    0.477 % biden, 2020-11-04T03:17:12Z
+biden votes fell by 6908 in texas
+Prior =  9249460 votes,     0.51 % trump,    0.476 % biden, 2020-11-04T03:27:35Z
+Later =  9254386 votes,     0.51 % trump,    0.475 % biden, 2020-11-04T03:28:56Z
+biden votes fell by 1662 in texas
+Prior =  9295073 votes,    0.511 % trump,    0.475 % biden, 2020-11-04T03:31:59Z
+Later =  9311174 votes,    0.512 % trump,    0.474 % biden, 2020-11-04T03:32:55Z
+biden votes fell by 8449 in texas
+Prior =  9513359 votes,    0.516 % trump,    0.471 % biden, 2020-11-04T03:45:56Z
+Later =  9515623 votes,    0.516 % trump,     0.47 % biden, 2020-11-04T03:46:45Z
+biden votes fell by 2616 in texas
+Prior =  9862303 votes,    0.518 % trump,    0.469 % biden, 2020-11-04T04:19:33Z
+Later =  9877786 votes,    0.518 % trump,    0.468 % biden, 2020-11-04T04:20:09Z
+biden votes fell by 4438 in texas
+Prior = 10109640 votes,    0.521 % trump,    0.465 % biden, 2020-11-04T04:44:30Z
+Later = 10121861 votes,    0.522 % trump,    0.464 % biden, 2020-11-04T04:47:09Z
+biden votes fell by 3256 in texas
+Prior = 10263968 votes,    0.521 % trump,    0.465 % biden, 2020-11-04T04:59:18Z
+Later = 10279070 votes,    0.521 % trump,    0.464 % biden, 2020-11-04T05:00:36Z
+biden votes fell by 9057 in texas
+Prior = 10384890 votes,    0.522 % trump,    0.464 % biden, 2020-11-04T05:10:39Z
+Later = 10387754 votes,    0.522 % trump,    0.463 % biden, 2020-11-04T05:10:57Z
+biden votes fell by 4788 in texas
+Prior = 10443941 votes,    0.522 % trump,    0.464 % biden, 2020-11-04T05:15:57Z
+Later = 10456154 votes,    0.522 % trump,    0.463 % biden, 2020-11-04T05:19:53Z
+biden votes fell by 5178 in texas
+Prior = 11167819 votes,    0.522 % trump,    0.463 % biden, 2020-11-04T10:49:56Z
+Later = 11180782 votes,    0.523 % trump,    0.462 % biden, 2020-11-04T10:56:55Z
+biden votes fell by 9516 in texas
+Prior = 11266349 votes,    0.522 % trump,    0.464 % biden, 2020-11-06T13:56:48Z
+Later = 11270126 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T20:29:33Z
+TOTAL VOTES FELL BY 2 in texas
+Nominal Change: Trump:      -1, Biden:       -1
+Prior = 11270126 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T20:29:33Z
+Later = 11270124 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T21:12:16Z
+TOTAL VOTES FELL BY 3865 in texas
+Nominal Change: Trump:   -2018, Biden:    -1790
+Prior = 11270630 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T21:25:59Z
+Later = 11266765 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T21:55:24Z
+TOTAL VOTES FELL BY 5753 in texas
+Nominal Change: Trump:   -3003, Biden:    -2663
+Prior = 11266765 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T21:55:24Z
+Later = 11261012 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T21:59:31Z
+TOTAL VOTES FELL BY 15338 in texas
+Nominal Change: Trump:   -8006, Biden:    -7102
+Prior = 11261012 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T21:59:31Z
+Later = 11245674 votes,    0.522 % trump,    0.463 % biden, 2020-11-06T22:07:47Z
+TRUMP VOTES FELL BY 459 in utah
+Prior =   610158 votes,    0.513 % trump,    0.454 % biden, 2020-11-04T03:25:59Z
+Later =   610454 votes,    0.512 % trump,    0.454 % biden, 2020-11-04T03:28:02Z
+biden votes fell by 393 in utah
+Prior =   830179 votes,    0.554 % trump,    0.406 % biden, 2020-11-04T03:40:21Z
+Later =   831255 votes,    0.554 % trump,    0.405 % biden, 2020-11-04T03:42:21Z
+TRUMP VOTES FELL BY 308 in utah
+Prior =   832126 votes,    0.555 % trump,    0.405 % biden, 2020-11-04T03:53:09Z
+Later =   834579 votes,    0.553 % trump,    0.404 % biden, 2020-11-04T03:54:07Z
+TRUMP VOTES FELL BY 861 in utah
+Prior =   923193 votes,    0.559 % trump,    0.399 % biden, 2020-11-04T04:29:19Z
+Later =   923305 votes,    0.558 % trump,    0.399 % biden, 2020-11-04T04:33:18Z
+biden votes fell by 236 in utah
+Prior =   983616 votes,    0.577 % trump,    0.388 % biden, 2020-11-04T05:19:19Z
+Later =   985547 votes,    0.577 % trump,    0.387 % biden, 2020-11-04T05:40:17Z
+biden votes fell by 614 in utah
+Prior =  1015583 votes,    0.578 % trump,    0.387 % biden, 2020-11-04T06:10:53Z
+Later =  1016620 votes,    0.578 % trump,    0.386 % biden, 2020-11-04T06:18:55Z
+biden votes fell by 293 in vermont
+Prior =   309866 votes,     0.31 % trump,    0.657 % biden, 2020-11-04T04:19:41Z
+Later =   309889 votes,     0.31 % trump,    0.656 % biden, 2020-11-04T04:21:36Z
+biden votes fell by 190 in vermont
+Prior =   349170 votes,    0.317 % trump,     0.65 % biden, 2020-11-04T14:56:01Z
+Later =   349414 votes,    0.317 % trump,    0.649 % biden, 2020-11-04T15:46:11Z
+TRUMP VOTES FELL BY 35 in virginia
+Prior =  1968766 votes,    0.569 % trump,    0.412 % biden, 2020-11-04T02:33:41Z
+Later =  1979139 votes,    0.566 % trump,    0.415 % biden, 2020-11-04T02:34:44Z
+biden votes fell by 1869 in virginia
+Prior =  2032919 votes,    0.566 % trump,    0.416 % biden, 2020-11-04T02:36:32Z
+Later =  2033311 votes,    0.566 % trump,    0.415 % biden, 2020-11-04T02:44:24Z
+biden votes fell by 2091 in virginia
+Prior =  2517225 votes,     0.53 % trump,    0.453 % biden, 2020-11-04T03:06:57Z
+Later =  2518165 votes,     0.53 % trump,    0.452 % biden, 2020-11-04T03:10:02Z
+TRUMP VOTES FELL BY 328 in virginia
+Prior =  2621801 votes,    0.523 % trump,     0.46 % biden, 2020-11-04T03:43:31Z
+Later =  2626196 votes,    0.522 % trump,     0.46 % biden, 2020-11-04T03:44:40Z
+TOTAL VOTES FELL BY 373642 in virginia
+Nominal Change: Trump:  -37510, Biden:  -330153
+Prior =  3572807 votes,     0.46 % trump,    0.524 % biden, 2020-11-04T05:07:23Z
+Later =  3199165 votes,    0.502 % trump,    0.482 % biden, 2020-11-04T05:12:38Z
+TOTAL VOTES FELL BY 391573 in virginia
+Nominal Change: Trump:  -80357, Biden:  -308341
+Prior =  3782386 votes,    0.465 % trump,    0.519 % biden, 2020-11-04T05:26:48Z
+Later =  3390813 votes,    0.495 % trump,    0.488 % biden, 2020-11-04T05:30:56Z
+TOTAL VOTES FELL BY 16066 in virginia
+Nominal Change: Trump:  -11538, Biden:    -8643
+Prior =  4388538 votes,    0.446 % trump,    0.538 % biden, 2020-11-05T13:15:47Z
+Later =  4372472 votes,    0.445 % trump,    0.538 % biden, 2020-11-05T16:24:41Z
+TOTAL VOTES FELL BY 7732 in virginia
+Nominal Change: Trump:   -7820, Biden:      211
+Prior =  4386617 votes,    0.445 % trump,    0.539 % biden, 2020-11-06T16:45:28Z
+Later =  4378885 votes,    0.444 % trump,     0.54 % biden, 2020-11-06T17:24:48Z
+biden votes fell by 4288 in virginia
+Prior =  4378890 votes,    0.444 % trump,     0.54 % biden, 2020-11-06T17:45:33Z
+Later =  4379057 votes,    0.444 % trump,    0.539 % biden, 2020-11-06T18:45:32Z
+biden votes fell by 1118 in washington
+Prior =  3450880 votes,     0.37 % trump,    0.607 % biden, 2020-11-05T01:00:57Z
+Later =  3454729 votes,     0.37 % trump,    0.606 % biden, 2020-11-05T01:02:56Z
+biden votes fell by 2389 in washington
+Prior =  3651171 votes,    0.377 % trump,      0.6 % biden, 2020-11-06T00:38:41Z
+Later =  3653276 votes,    0.377 % trump,    0.599 % biden, 2020-11-06T00:48:43Z
+biden votes fell by 145 in washington
+Prior =  3789316 votes,    0.383 % trump,    0.593 % biden, 2020-11-07T00:16:43Z
+Later =  3795471 votes,    0.383 % trump,    0.592 % biden, 2020-11-07T00:25:40Z
+TRUMP VOTES FELL BY 13 in west-virginia
+Prior =    34425 votes,    0.474 % trump,    0.508 % biden, 2020-11-04T01:03:20Z
+Later =    34543 votes,    0.472 % trump,    0.506 % biden, 2020-11-04T01:04:36Z
+biden votes fell by 8 in west-virginia
+Prior =    34425 votes,    0.474 % trump,    0.508 % biden, 2020-11-04T01:03:20Z
+Later =    34543 votes,    0.472 % trump,    0.506 % biden, 2020-11-04T01:04:36Z
+biden votes fell by 51 in west-virginia
+Prior =   551811 votes,    0.656 % trump,    0.326 % biden, 2020-11-04T03:03:27Z
+Later =   553348 votes,    0.656 % trump,    0.325 % biden, 2020-11-04T03:04:44Z
+biden votes fell by 175 in west-virginia
+Prior =   573485 votes,    0.658 % trump,    0.323 % biden, 2020-11-04T03:14:30Z
+Later =   574719 votes,    0.659 % trump,    0.322 % biden, 2020-11-04T03:21:10Z
+biden votes fell by 67 in west-virginia
+Prior =   741973 votes,    0.681 % trump,    0.301 % biden, 2020-11-04T05:00:40Z
+Later =   744219 votes,    0.681 % trump,      0.3 % biden, 2020-11-04T05:01:45Z
+biden votes fell by 78 in wisconsin
+Prior =   359150 votes,     0.48 % trump,    0.502 % biden, 2020-11-04T02:36:25Z
+Later =   359709 votes,     0.48 % trump,    0.501 % biden, 2020-11-04T02:37:36Z
+TRUMP VOTES FELL BY 391 in wisconsin
+Prior =   661164 votes,    0.473 % trump,     0.51 % biden, 2020-11-04T02:47:06Z
+Later =   661737 votes,    0.472 % trump,    0.509 % biden, 2020-11-04T02:48:16Z
+biden votes fell by 368 in wisconsin
+Prior =   661164 votes,    0.473 % trump,     0.51 % biden, 2020-11-04T02:47:06Z
+Later =   661737 votes,    0.472 % trump,    0.509 % biden, 2020-11-04T02:48:16Z
+biden votes fell by 223 in wisconsin
+Prior =   820289 votes,    0.487 % trump,    0.496 % biden, 2020-11-04T02:54:34Z
+Later =   821494 votes,    0.487 % trump,    0.495 % biden, 2020-11-04T02:55:58Z
+TRUMP VOTES FELL BY 518 in wisconsin
+Prior =  1314342 votes,    0.503 % trump,     0.48 % biden, 2020-11-04T03:35:25Z
+Later =  1315928 votes,    0.502 % trump,    0.481 % biden, 2020-11-04T03:37:17Z
+biden votes fell by 618 in wisconsin
+Prior =  1483756 votes,    0.503 % trump,     0.48 % biden, 2020-11-04T03:56:12Z
+Later =  1485560 votes,    0.503 % trump,    0.479 % biden, 2020-11-04T03:57:47Z
+biden votes fell by 133 in wisconsin
+Prior =  1749777 votes,    0.509 % trump,    0.474 % biden, 2020-11-04T04:14:54Z
+Later =  1753194 votes,     0.51 % trump,    0.473 % biden, 2020-11-04T04:15:05Z
+biden votes fell by 1370 in wisconsin
+Prior =  1835831 votes,    0.509 % trump,    0.474 % biden, 2020-11-04T04:19:27Z
+Later =  1836812 votes,     0.51 % trump,    0.473 % biden, 2020-11-04T04:20:07Z
+biden votes fell by 1176 in wisconsin
+Prior =  2129606 votes,    0.515 % trump,    0.469 % biden, 2020-11-04T04:47:22Z
+Later =  2131642 votes,    0.515 % trump,    0.468 % biden, 2020-11-04T04:47:38Z
+biden votes fell by 199 in wisconsin
+Prior =  2322855 votes,    0.515 % trump,    0.469 % biden, 2020-11-04T05:09:20Z
+Later =  2327389 votes,    0.515 % trump,    0.468 % biden, 2020-11-04T05:10:01Z
+TOTAL VOTES FELL BY 3343 in wisconsin
+Nominal Change: Trump:   -1725, Biden:    -1561
+Prior =  2436212 votes,    0.516 % trump,    0.467 % biden, 2020-11-04T05:24:07Z
+Later =  2432869 votes,    0.516 % trump,    0.467 % biden, 2020-11-04T05:24:16Z
+TRUMP VOTES FELL BY 943 in wisconsin
+Prior =  2494121 votes,    0.516 % trump,    0.468 % biden, 2020-11-04T05:27:30Z
+Later =  2497132 votes,    0.515 % trump,    0.468 % biden, 2020-11-04T05:27:57Z
+biden votes fell by 1892 in wisconsin
+Prior =  2583576 votes,    0.513 % trump,     0.47 % biden, 2020-11-04T05:53:11Z
+Later =  2585049 votes,    0.513 % trump,    0.469 % biden, 2020-11-04T05:54:15Z
+biden votes fell by 621 in wisconsin
+Prior =  2686364 votes,    0.512 % trump,    0.471 % biden, 2020-11-04T06:15:59Z
+Later =  2690757 votes,    0.512 % trump,     0.47 % biden, 2020-11-04T06:16:33Z
+biden votes fell by 2110 in wisconsin
+Prior =  2708115 votes,    0.512 % trump,    0.471 % biden, 2020-11-04T06:21:05Z
+Later =  2709386 votes,    0.512 % trump,     0.47 % biden, 2020-11-04T06:21:44Z
+biden votes fell by 1839 in wisconsin
+Prior =  2765508 votes,     0.51 % trump,    0.473 % biden, 2020-11-04T06:30:15Z
+Later =  2767470 votes,     0.51 % trump,    0.472 % biden, 2020-11-04T06:30:39Z
+TRUMP VOTES FELL BY 616 in wisconsin
+Prior =  2935330 votes,    0.512 % trump,    0.471 % biden, 2020-11-04T08:10:24Z
+Later =  2939868 votes,    0.511 % trump,    0.471 % biden, 2020-11-04T08:12:01Z
+biden votes fell by 2417 in wisconsin
+Prior =  3217007 votes,     0.49 % trump,    0.493 % biden, 2020-11-04T10:38:22Z
+Later =  3218631 votes,     0.49 % trump,    0.492 % biden, 2020-11-04T11:03:24Z
+biden votes fell by 3116 in wisconsin
+Prior =  3296836 votes,    0.488 % trump,    0.495 % biden, 2020-11-04T12:16:38Z
+Later =  3297199 votes,    0.488 % trump,    0.494 % biden, 2020-11-04T17:44:57Z
+TOTAL VOTES FELL BY 65 in wisconsin
+Nominal Change: Trump:     -32, Biden:      -32
+Prior =  3297199 votes,    0.488 % trump,    0.494 % biden, 2020-11-04T17:44:57Z
+Later =  3297134 votes,    0.488 % trump,    0.494 % biden, 2020-11-04T18:27:01Z
+biden votes fell by 25 in wyoming
+Prior =    71949 votes,    0.719 % trump,    0.245 % biden, 2020-11-04T04:07:04Z
+Later =    72137 votes,    0.719 % trump,    0.244 % biden, 2020-11-04T04:11:14Z
+total samples = 9147
+minElapsedSec = 61936
+maxElapsedSec = 386262
+Analysis limited to items from 11/3/2020 12:00:01 PM to 11/7/2020 12:00:01 PM UTC.
+timesTotalVotesFell = 36
+sumTotalVotesFell = 2095735
+nominalTrumpLoss during TotalVotesFell-622960
+nominalBidenLoss during TotalVotesFell-1378789
+Otherwise, provably timesTrumpVotesFell = 8
+Otherwise, provably sumTrumpVotesFell = 128869
+Otherwise, provably timesBidenVotesFell = 5
+Otherwise, provably sumBidenVotesFell = 40209
+Otherwise, nominal timesTrumpVotesFell = 115
+Otherwise, nominal sumTrumpVotesFell = 221134
+Otherwise, nominal timesBidenVotesFell = 308
+Otherwise, nominal sumBidenVotesFell = 466365
+pennsylvania had 7 provable flaws, worth 495% of the final vote margin.
+Flaw in pennsylvania at 11/3/2020 6:42:45 PM: dTotalVotes = -66, dTrumpVotes = -29, dBidenVotes = -37
+RAW DATA WAS(77, 0.429, 0.571), NOW IS(11, 0.364, 0.636).
+Flaw in pennsylvania at 11/3/2020 8:14:32 PM: dTotalVotes = -239804, dTrumpVotes = -42326, dBidenVotes = -196432
+RAW DATA WAS(1111586, 0.351, 0.641), NOW IS(871782, 0.399, 0.592).
+Flaw in pennsylvania at 11/3/2020 8:17:03 PM: dTotalVotes = -114886, dTrumpVotes = -127916, dBidenVotes = 12400
+RAW DATA WAS(888907, 0.406, 0.586), NOW IS(774021, 0.301, 0.689).
+Flaw in pennsylvania at 11/3/2020 8:22:45 PM: dTotalVotes = -586189, dTrumpVotes = -145179, dBidenVotes = -416589
+RAW DATA WAS(1325632, 0.312, 0.664), NOW IS(739443, 0.363, 0.627).
+Flaw in pennsylvania at 11/3/2020 10:08:51 PM: dTotalVotes = 54, dTrumpVotes = -14891, dBidenVotes = 0
+RAW DATA WAS(2984468, 0.566, 0.42), NOW IS(2984522, 0.56, 0.426).
+Flaw in pennsylvania at 11/6/2020 6:22:44 AM: dTotalVotes = -280, dTrumpVotes = -139, dBidenVotes = -138
+RAW DATA WAS(6639262, 0.495, 0.492), NOW IS(6638982, 0.495, 0.492).
+Flaw in pennsylvania at 11/6/2020 3:25:07 PM: dTotalVotes = -1, dTrumpVotes = 0, dBidenVotes = 0
+RAW DATA WAS(6701439, 0.493, 0.495), NOW IS(6701438, 0.493, 0.495).
+Biden won by 54501 votes while Trump was given 270316 net votes while 941172 votes disappeared in pennsylvania.
+virginia had 4 provable flaws, worth 113% of the final vote margin.
+Flaw in virginia at 11/3/2020 11:12:38 PM: dTotalVotes = -373642, dTrumpVotes = -37510, dBidenVotes = -330153
+RAW DATA WAS(3572807, 0.46, 0.524), NOW IS(3199165, 0.502, 0.482).
+Flaw in virginia at 11/3/2020 11:30:56 PM: dTotalVotes = -391573, dTrumpVotes = -80357, dBidenVotes = -308341
+RAW DATA WAS(3782386, 0.465, 0.519), NOW IS(3390813, 0.495, 0.488).
+Flaw in virginia at 11/5/2020 10:24:41 AM: dTotalVotes = -16066, dTrumpVotes = -11538, dBidenVotes = -8643
+RAW DATA WAS(4388538, 0.446, 0.538), NOW IS(4372472, 0.445, 0.538).
+Flaw in virginia at 11/6/2020 11:24:48 AM: dTotalVotes = -7732, dTrumpVotes = -7820, dBidenVotes = 211
+RAW DATA WAS(4386617, 0.445, 0.539), NOW IS(4378885, 0.444, 0.54).
+Biden won by 448782 votes while Trump was given 509701 net votes while 789013 votes disappeared in virginia.
+georgia had 3 provable flaws, worth 47% of the final vote margin.
+Flaw in georgia at 11/4/2020 12:12:24 AM: dTotalVotes = -28966, dTrumpVotes = -10753, dBidenVotes = -17865
+RAW DATA WAS(4367114, 0.521, 0.467), NOW IS(4338148, 0.522, 0.466).
+Flaw in georgia at 11/4/2020 8:50:36 PM: dTotalVotes = -3242, dTrumpVotes = -1614, dBidenVotes = -1589
+RAW DATA WAS(4877663, 0.498, 0.49), NOW IS(4874421, 0.498, 0.49).
+Flaw in georgia at 11/4/2020 8:54:08 PM: dTotalVotes = -1366, dTrumpVotes = -681, dBidenVotes = -669
+RAW DATA WAS(4874421, 0.498, 0.49), NOW IS(4873055, 0.498, 0.49).
+Biden won by 14977 votes while Trump was given 7075 net votes while 33574 votes disappeared in georgia.
+new-jersey had 2 provable flaws, worth 11% of the final vote margin.
+Flaw in new-jersey at 11/3/2020 9:25:44 PM: dTotalVotes = 0, dTrumpVotes = -77001, dBidenVotes = 0
+RAW DATA WAS(2566724, 0.413, 0.574), NOW IS(2566724, 0.382, 0.605).
+Flaw in new-jersey at 11/6/2020 4:26:44 PM: dTotalVotes = -20, dTrumpVotes = -8, dBidenVotes = -12
+RAW DATA WAS(3370027, 0.397, 0.59), NOW IS(3370007, 0.397, 0.59).
+Biden won by 653437 votes while Biden was given 76997 net votes while 20 votes disappeared in new-jersey.
+minnesota had 1 provable flaws, worth 11% of the final vote margin.
+Flaw in minnesota at 11/3/2020 10:38:43 PM: dTotalVotes = -194846, dTrumpVotes = -107663, dBidenVotes = -81215
+RAW DATA WAS(2071091, 0.437, 0.542), NOW IS(1876245, 0.425, 0.555).
+Biden won by 232347 votes while Biden was given 26448 net votes while 194846 votes disappeared in minnesota.
+iowa had 1 provable flaws, worth 4% of the final vote margin.
+Flaw in iowa at 11/4/2020 3:43:29 PM: dTotalVotes = 0, dTrumpVotes = 0, dBidenVotes = -6745
+RAW DATA WAS(1686601, 0.527, 0.454), NOW IS(1686601, 0.531, 0.449).
+Trump won by 138390 votes while Trump was given 6745 net votes while 0 votes disappeared in iowa.
+kansas had 3 provable flaws, worth 4% of the final vote margin.
+Flaw in kansas at 11/3/2020 7:50:49 PM: dTotalVotes = 0, dTrumpVotes = 0, dBidenVotes = -3783
+RAW DATA WAS(472997, 0.446, 0.536), NOW IS(472997, 0.455, 0.527).
+Flaw in kansas at 11/3/2020 8:37:05 PM: dTotalVotes = 2843, dTrumpVotes = 0, dBidenVotes = -6724
+RAW DATA WAS(733943, 0.492, 0.486), NOW IS(736786, 0.501, 0.474).
+Flaw in kansas at 11/3/2020 9:08:24 PM: dTotalVotes = 0, dTrumpVotes = -836, dBidenVotes = 0
+RAW DATA WAS(837434, 0.526, 0.449), NOW IS(837434, 0.524, 0.451).
+Trump won by 202818 votes while Trump was given 9671 net votes while -2843 votes disappeared in kansas.
+nebraska had 2 provable flaws, worth 3% of the final vote margin.
+Flaw in nebraska at 11/6/2020 6:44:14 PM: dTotalVotes = 13860, dTrumpVotes = 0, dBidenVotes = -22793
+RAW DATA WAS(926348, 0.587, 0.391), NOW IS(940208, 0.617, 0.36).
+Flaw in nebraska at 11/6/2020 6:47:20 PM: dTotalVotes = 0, dTrumpVotes = -29146, dBidenVotes = 0
+RAW DATA WAS(940208, 0.617, 0.36), NOW IS(940208, 0.585, 0.391).
+Trump won by 181899 votes while Biden was given 6353 net votes while -13860 votes disappeared in nebraska.
+michigan had 3 provable flaws, worth 3% of the final vote margin.
+Flaw in michigan at 11/3/2020 7:51:52 PM: dTotalVotes = 560, dTrumpVotes = -4845, dBidenVotes = 0
+RAW DATA WAS(573857, 0.578, 0.401), NOW IS(574417, 0.568, 0.406).
+Flaw in michigan at 11/4/2020 12:23:51 PM: dTotalVotes = -12437, dTrumpVotes = -6057, dBidenVotes = -6169
+RAW DATA WAS(5303442, 0.487, 0.496), NOW IS(5291005, 0.487, 0.496).
+Flaw in michigan at 11/6/2020 12:11:31 PM: dTotalVotes = -2796, dTrumpVotes = -1340, dBidenVotes = -1412
+RAW DATA WAS(5533185, 0.479, 0.505), NOW IS(5530389, 0.479, 0.505).
+Biden won by 143814 votes while Biden was given 4661 net votes while 14673 votes disappeared in michigan.
+montana had 1 provable flaws, worth 2% of the final vote margin.
+Flaw in montana at 11/4/2020 5:56:04 AM: dTotalVotes = -1276, dTrumpVotes = -2298, dBidenVotes = 528
+RAW DATA WAS(531453, 0.555, 0.417), NOW IS(530177, 0.552, 0.419).
+Trump won by 98735 votes while Biden was given 2826 net votes while 1276 votes disappeared in montana.
+missouri had 1 provable flaws, worth 2% of the final vote margin.
+Flaw in missouri at 11/3/2020 10:47:25 PM: dTotalVotes = -20729, dTrumpVotes = -16681, dBidenVotes = -6201
+RAW DATA WAS(2547002, 0.561, 0.421), NOW IS(2526273, 0.559, 0.422).
+Trump won by 469609 votes while Biden was given 10480 net votes while 20729 votes disappeared in missouri.
+arkansas had 3 provable flaws, worth 1% of the final vote margin.
+Flaw in arkansas at 11/6/2020 12:49:46 PM: dTotalVotes = -3000, dTrumpVotes = -3098, dBidenVotes = 182
+RAW DATA WAS(1219812, 0.627, 0.345), NOW IS(1216812, 0.626, 0.346).
+Flaw in arkansas at 11/6/2020 1:10:54 PM: dTotalVotes = -3877, dTrumpVotes = -2427, dBidenVotes = -2554
+RAW DATA WAS(1216812, 0.626, 0.346), NOW IS(1212935, 0.626, 0.345).
+Flaw in arkansas at 11/6/2020 1:28:56 PM: dTotalVotes = -4997, dTrumpVotes = -3128, dBidenVotes = -516
+RAW DATA WAS(1212935, 0.626, 0.345), NOW IS(1207938, 0.626, 0.346).
+Trump won by 338624 votes while Biden was given 5765 net votes while 11874 votes disappeared in arkansas.
+wisconsin had 2 provable flaws, worth 0% of the final vote margin.
+Flaw in wisconsin at 11/3/2020 11:24:16 PM: dTotalVotes = -3343, dTrumpVotes = -1725, dBidenVotes = -1561
+RAW DATA WAS(2436212, 0.516, 0.467), NOW IS(2432869, 0.516, 0.467).
+Flaw in wisconsin at 11/4/2020 12:27:01 PM: dTotalVotes = -65, dTrumpVotes = -32, dBidenVotes = -32
+RAW DATA WAS(3297199, 0.488, 0.494), NOW IS(3297134, 0.488, 0.494).
+Biden won by 23080 votes while Biden was given 164 net votes while 3408 votes disappeared in wisconsin.
+new-mexico had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in new-mexico at 11/6/2020 2:47:18 PM: dTotalVotes = -4610, dTrumpVotes = -2010, dBidenVotes = -2499
+RAW DATA WAS(922516, 0.436, 0.542), NOW IS(917906, 0.436, 0.542).
+Biden won by 97659 votes while Trump was given 489 net votes while 4610 votes disappeared in new-mexico.
+south-dakota had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in south-dakota at 11/3/2020 10:41:38 PM: dTotalVotes = 0, dTrumpVotes = -531, dBidenVotes = 0
+RAW DATA WAS(266100, 0.646, 0.328), NOW IS(266100, 0.643, 0.33).
+Trump won by 110723 votes while Biden was given 531 net votes while 0 votes disappeared in south-dakota.
+texas had 4 provable flaws, worth 0% of the final vote margin.
+Flaw in texas at 11/6/2020 3:12:16 PM: dTotalVotes = -2, dTrumpVotes = -1, dBidenVotes = -1
+RAW DATA WAS(11270126, 0.522, 0.463), NOW IS(11270124, 0.522, 0.463).
+Flaw in texas at 11/6/2020 3:55:24 PM: dTotalVotes = -3865, dTrumpVotes = -2018, dBidenVotes = -1790
+RAW DATA WAS(11270630, 0.522, 0.463), NOW IS(11266765, 0.522, 0.463).
+Flaw in texas at 11/6/2020 3:59:31 PM: dTotalVotes = -5753, dTrumpVotes = -3003, dBidenVotes = -2663
+RAW DATA WAS(11266765, 0.522, 0.463), NOW IS(11261012, 0.522, 0.463).
+Flaw in texas at 11/6/2020 4:07:47 PM: dTotalVotes = -15338, dTrumpVotes = -8006, dBidenVotes = -7102
+RAW DATA WAS(11261012, 0.522, 0.463), NOW IS(11245674, 0.522, 0.463).
+Trump won by 641574 votes while Biden was given 1472 net votes while 24958 votes disappeared in texas.
+south-carolina had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in south-carolina at 11/3/2020 7:52:03 PM: dTotalVotes = 1148, dTrumpVotes = -576, dBidenVotes = 0
+RAW DATA WAS(390347, 0.521, 0.466), NOW IS(391495, 0.517, 0.471).
+Trump won by 294059 votes while Biden was given 576 net votes while -1148 votes disappeared in south-carolina.
+massachusetts had 2 provable flaws, worth 0% of the final vote margin.
+Flaw in massachusetts at 11/3/2020 8:28:45 PM: dTotalVotes = 2414, dTrumpVotes = -1043, dBidenVotes = 0
+RAW DATA WAS(240695, 0.273, 0.704), NOW IS(243109, 0.265, 0.713).
+Flaw in massachusetts at 11/5/2020 2:46:09 PM: dTotalVotes = -51, dTrumpVotes = -17, dBidenVotes = -34
+RAW DATA WAS(3284373, 0.321, 0.656), NOW IS(3284322, 0.321, 0.656).
+Biden won by 1138685 votes while Biden was given 1026 net votes while -2363 votes disappeared in massachusetts.
+illinois had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in illinois at 11/3/2020 10:15:36 PM: dTotalVotes = -54275, dTrumpVotes = 2777, dBidenVotes = 2377
+RAW DATA WAS(3653309, 0.413, 0.553), NOW IS(3599034, 0.42, 0.562).
+Biden won by 939851 votes while Trump was given 400 net votes while 54275 votes disappeared in illinois.
+kentucky had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in kentucky at 11/3/2020 7:55:03 PM: dTotalVotes = 17263, dTrumpVotes = 0, dBidenVotes = -164
+RAW DATA WAS(1618537, 0.614, 0.37), NOW IS(1635800, 0.619, 0.365).
+Trump won by 553015 votes while Trump was given 164 net votes while -17263 votes disappeared in kentucky.
+alabama had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in alabama at 11/6/2020 12:37:30 PM: dTotalVotes = -408, dTrumpVotes = -254, dBidenVotes = -149
+RAW DATA WAS(2297624, 0.623, 0.363), NOW IS(2297216, 0.623, 0.363).
+Trump won by 591334 votes while Biden was given 105 net votes while 408 votes disappeared in alabama.
+new-hampshire had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in new-hampshire at 11/5/2020 6:52:32 PM: dTotalVotes = -90, dTrumpVotes = -41, dBidenVotes = -47
+RAW DATA WAS(799072, 0.455, 0.526), NOW IS(798982, 0.455, 0.526).
+Biden won by 58725 votes while Trump was given 6 net votes while 90 votes disappeared in new-hampshire.
+maine had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in maine at 11/4/2020 6:46:58 AM: dTotalVotes = -35, dTrumpVotes = -14, dBidenVotes = -19
+RAW DATA WAS(620437, 0.422, 0.547), NOW IS(620402, 0.422, 0.547).
+Biden won by 78633 votes while Trump was given 5 net votes while 35 votes disappeared in maine.
+florida had 1 provable flaws, worth 0% of the final vote margin.
+Flaw in florida at 11/3/2020 6:47:04 PM: dTotalVotes = -96, dTrumpVotes = -47, dBidenVotes = -48
+RAW DATA WAS(9246265, 0.491, 0.499), NOW IS(9246169, 0.491, 0.499).
+Trump won by 376565 votes while Trump was given 1 net votes while 96 votes disappeared in florida.

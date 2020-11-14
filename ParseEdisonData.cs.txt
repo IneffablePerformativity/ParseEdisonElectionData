@@ -1,0 +1,705 @@
+﻿/*
+ * ParseEdisonData.cs
+ * 
+ * Goal: Examine Edison elsection timeseries data from:
+ * https://workupload.com/start/s7s8SARjjqh
+ * as per:
+ * https://noqreport.com/2020/11/11/data-deep-dive-on-dominion-voting-systems-offers-incontrovertible-proof-of-election-hack/
+ * 
+ * extra url:
+ * https://workupload.com/start/LVcwK7AAD8p
+ * 
+ * Another place, looks like same format therein + house and senate:
+ * Changing over to this as possibly more authoritative:
+ * It shows 100, not 73, instances of total votes decreasing!
+ * I see that a lot of them happen hear the end of date range, like a real data correction.
+ * https://github.com/favstats/USElection2020-NYT-Results
+ * 
+ * Here is a one-off anomaly, that I attribute to a non-atomic update of computed data:
+ * nebraskaOkay:   926348 votes,    0.587 % trump,    0.391 % biden, 2020-11-06T15:11:02Z
+ * nebraskaTOTAL OKAY, BUT BIDEN VOTES DECREASED:   940208 votes,    0.617 % trump,     0.36 % biden, 2020-11-07T00:44:14Z
+ * nebraskaTOTAL OKAY, BUT TRUMP VOTES DECREASED:   940208 votes,    0.585 % trump,    0.391 % biden, 2020-11-07T00:47:20Z
+ * nebraskaOkay:   940210 votes,    0.585 % trump,    0.391 % biden, 2020-11-09T00:43:47Z
+ * 
+ * Here is another one, when I include the nominal vs. provable:
+ * 
+ * 
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Data;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading;
+
+// Nuget seems broke in SharpDevelop.
+// Just download using Visual Studio,
+// Copy any packages here, reference.
+
+using Newtonsoft.Json;
+
+
+namespace ParseEdisonData
+{
+	class Program
+	{
+		static string inputFolder = @"C:\a\USElection2020-NYT-Results-master_data_2020-11-12_18-28-59_presidential_states_json";
+
+		static StreamWriter aos = null; // = File.CreateText(@"c:\a\AnalysisOut.txt")
+		static StreamWriter sid = null; // = File.CreateText(@"c:\a\SortedInputDataOut.txt")
+		
+		static void say(string s)
+		{
+			aos.WriteLine(s);
+			Console.WriteLine(s);
+		}
+		
+		static void log(string s)
+		{
+			sid.WriteLine(s);
+		}
+
+		
+		static DateTime zeroTime = new DateTime(2020, 11, 3, 0, 0, 0, DateTimeKind.Utc);
+		
+		// to quickly rid various kinds of dirty data artifacts,
+		// focus on the reputed 11-4 corruption, or a little more:
+		static bool limitTimeRange = true;
+		static DateTime lowCutoff = new DateTime(2020, 11, 3, 12, 0, 1, DateTimeKind.Utc);
+		static DateTime highCutoff = new DateTime(2020, 11, 7, 12, 0, 1, DateTimeKind.Utc);
+		
+		public class Flaw
+		{
+			public DateTime atTime;
+			public int dTotal;
+			public int dTrump;
+			public int dBiden;
+			public string raw; // like a "WAS... IS..." input data stmt
+			
+			public Flaw(DateTime d, int dTot, int dt, int db, string r)
+			{
+				atTime = d;
+				dTotal = dTot;
+				dTrump = dt;
+				dBiden = db;
+				raw = r;
+			}
+		};
+		
+		public class Stole
+		{
+			public List<Flaw> flaws;
+			public int sumTotal;
+			public int sumTrump;
+			public int sumBiden;
+			public int lastTrump;
+			public int lastBiden;
+			public Stole()
+			{
+				flaws = new List<Flaw>();
+			}
+		};
+		
+		static Dictionary<string, Stole> stateStole = new Dictionary<string, Stole>();
+		
+		public static void Main(string[] args)
+		{
+			Console.Write("Hello World!");
+			
+			// TODO: Implement Functionality Here
+			
+			using(aos = File.CreateText(@"c:\a\AnalysisOut.txt"))
+				using(sid = File.CreateText(@"c:\a\SortedInputDataOut.txt"))
+			{
+				
+				try { todo(); } catch (Exception e) {say(e.ToString());}
+				aos.Close();
+				sid.Close();
+			}
+			aos = null;
+			sid = null;
+			
+			Console.Write("Press any key to continue . . . ");
+			Console.ReadKey(true);
+		}
+
+		
+		// The downloaded python script gives this clue to data structure:
+		// TotalVotesLost += x["data"]["races"][0]["timeseries"][i]["votes"] - x["data"]["races"][0]["timeseries"][i-1]["votes"]
+		
+		// Incrementally build C# classes for relevant elements:
+		
+		// Next python clue, down a few class levels:
+		// ["timeseries"][i]["vote_shares"]["trumpd"]
+		
+		// Examining the alaska json data:
+		// {"vote_shares":{"trumpd":0.622,"bidenj":0.336},"votes":190970,"eevp":61,"eevp_source":"edison","timestamp":"2020-11-09T19:09:13Z"}]}
+
+		public class VoteShares
+		{
+			// C# class member names must match JSON text:
+			public double trumpd {get; set;}
+			public double bidenj {get; set;}
+		}
+		
+		public class TimeseriesItem
+		{
+			// C# class member names must match JSON text:
+			// public object votes {get; set;} // baby step 2, still runs.
+			// looks like an integer:"votes":190970,
+			public int votes {get; set;}
+			
+			// adding more siblings:
+			public VoteShares vote_shares {get; set;}
+			
+			public string timestamp {get; set;} // like "2020-11-09T19:09:13Z"
+		}
+		
+		public class RaceItem
+		{
+			// C# class member names must match JSON text:
+			public IList<TimeseriesItem>  timeseries {get; set;}
+		}
+		
+		public class DataObject
+		{
+			// C# class member names must match JSON text:
+			public IList<RaceItem> races {get; set;}
+		}
+		
+		public class TopObject
+		{
+			// C# class member names must match JSON text:
+			// public object data {get; set;} // incremental baby step 1, runs!
+			public DataObject data {get; set;}
+		}
+		
+		static string describeTsi(string legend, TimeseriesItem tsi, string suffix)
+		{
+			string s = legend;
+			s += tsi.votes.ToString().PadLeft(8) + " votes, ";
+			s += tsi.vote_shares.trumpd.ToString().PadLeft(8) + " % trump, ";
+			s += tsi.vote_shares.bidenj.ToString().PadLeft(8) + " % biden, ";
+			s += tsi.timestamp;
+			s += suffix;
+			return s;
+		}
+		
+		// to tabulate all the 73 total vote count fell instances by state:
+		//  ummm, not yet...
+		// Dictionary<string, int> timesVotesFellByState = new Dictionary<string, int>();
+		// Dictionary<string, string> howVotesFellByState = new Dictionary<string, string>();
+
+		static void todo()
+		{
+			string[] fs = Directory.GetFiles(inputFolder, "*.json");
+
+			int samples = 0;
+			
+			int minElapsed = int.MaxValue;
+			int maxElapsed = int.MinValue;
+			
+			int ringers = 0; // samples with zero votes
+
+			int timesTotalVotesFell = 0; // among non-zero totals
+			int sumTotalVotesFell = 0; // among non-zero totals
+			int nominalTrumpLoss = 0; // w/o regard to round-off, during vote fall
+			int nominalBidenLoss = 0; // w/o regard to round-off, during vote fall
+
+			// secondly, using nominal w/o regard to round off errors
+			int timesTrumpVotesFellNominal = 0; // other than when total votes fell
+			int sumTrumpVotesFellNominal = 0;
+			
+			int timesBidenVotesFellNominal = 0; // other than when total votes fell
+			int sumBidenVotesFellNominal = 0;
+
+			// originaly, provably larger than round-off errors:
+			int timesTrumpVotesFell = 0; // other than when total votes fell
+			int sumTrumpVotesFell = 0;
+			
+			int timesBidenVotesFell = 0; // other than when total votes fell
+			int sumBidenVotesFell = 0;
+			
+			foreach(string fp in fs)
+			{
+				string stateName = Path.GetFileNameWithoutExtension(fp);
+				
+				// plan a per-state analysis
+				Stole thisStateStole = new Stole();
+				stateStole.Add(stateName, thisStateStole);
+				// get ready to record final votes:
+				int lastTotal = 0;
+				double lastTrump = 0;
+				double lastBiden = 0;
+				
+				string rawJson = File.ReadAllText(fp);
+				TopObject to = JsonConvert.DeserializeObject<TopObject>(rawJson);
+				
+				// to.data.races.Count
+				// there appears only always 1 race in each state data:
+				// say("races = " + to.data.races.Count + " in " + fp);
+
+				samples += to.data.races[0].timeseries.Count;
+				// say("samples = " + to.data.races[0].timeseries.Count + " in " + fp);
+				
+				// Dog caught car; What now?
+				// I must sort data by time.
+				
+				// a place to sort samples by timestamp:
+				SortedDictionary<DateTime, TimeseriesItem> sodi = new SortedDictionary<DateTime, TimeseriesItem>();
+				
+				foreach(TimeseriesItem tsi in  to.data.races[0].timeseries)
+				{
+					// tsi.timestamp;
+					// tsi.votes;
+					// tsi.vote_shares.bidenj;
+					// tsi.vote_shares.trumpd;
+					DateTime sampleTime = DateTime.Parse(tsi.timestamp);
+					
+					if(tsi.votes > 0)
+					{
+						lastTotal = tsi.votes;
+						lastTrump = tsi.vote_shares.trumpd;
+						lastBiden = tsi.vote_shares.bidenj;
+					}
+					if(limitTimeRange)
+					{
+						if(sampleTime < lowCutoff)
+						{
+							log(describeTsi(stateName, tsi, " EXCLUDED, sampleTime < lowCutoff"));
+							continue;
+						}
+						if(sampleTime > highCutoff)
+						{
+							log(describeTsi(stateName, tsi, " EXCLUDED, sampleTime > highCutoff"));
+							continue;
+						}
+					}
+					
+					// colorado crashed on a duplicate timestamp!
+					
+					if(sodi.ContainsKey(sampleTime))
+					{
+						// say("DUPLICATE TIMESTAMP: " + stateName + ": " + tsi.timestamp);
+						
+						// These 8 pairs warrant further inspection:
+						//DUPLICATE TIMESTAMP: connecticut: 2020-11-04T01:31:46Z
+						//DUPLICATE TIMESTAMP: florida: 2020-11-04T01:31:50Z
+						//DUPLICATE TIMESTAMP: massachusetts: 2020-11-04T01:56:40Z
+						//DUPLICATE TIMESTAMP: newhamp: 2020-11-04T09:15:43Z
+						//DUPLICATE TIMESTAMP: newhamp: 2020-11-03T14:16:25Z
+						//DUPLICATE TIMESTAMP: southcarolina: 2020-11-04T01:31:46Z
+						//DUPLICATE TIMESTAMP: texas: 2020-11-04T01:31:46Z
+						//DUPLICATE TIMESTAMP: texas: 2020-11-04T01:56:31Z
+
+						// Nothing to see here, ALL 8 pairs reported 0,0,0 variations:
+						
+						//TimeseriesItem tsi2 = sodi[sampleTime];
+						//int dv = Math.Abs(tsi.votes - tsi2.votes); // not time ordered
+						//// Just a quick sanity check w/o regard to only 3 dec places:
+						//int tv1 = (int)Math.Round(tsi.votes * tsi.vote_shares.trumpd);
+						//int tv2 = (int)Math.Round(tsi2.votes * tsi2.vote_shares.trumpd);
+						//int bv1 = (int)Math.Round(tsi.votes * tsi.vote_shares.bidenj);
+						//int bv2 = (int)Math.Round(tsi2.votes * tsi2.vote_shares.bidenj);
+						//int dtv = Math.Abs(tv2-tv1);
+						//int dbv = Math.Abs(bv2-bv1);
+						//
+						//say("DUPLICATE TIMESTAMP dVotes = " + dv + ", dTrump = " + dtv + ", dBiden = " + dbv + " (all absolute values) in " +  stateName + " at " + tsi.timestamp);
+						// log this sorted line whether good or bad:
+						log(describeTsi(stateName, tsi, " EXCLUDED, DUPLICATE TIMESTAMP"));
+
+					}
+					else
+					{
+						sodi.Add(sampleTime, tsi);
+					}
+				}
+				
+				// touch up the final candidate vote counts per state:
+				thisStateStole.lastTrump = (int)Math.Round(lastTotal * lastTrump);
+				thisStateStole.lastBiden = (int)Math.Round(lastTotal * lastBiden);
+				
+				
+				// Done: data now has ascending time stamps:
+				
+				
+				TimeseriesItem prior = null;
+				
+				foreach(KeyValuePair<DateTime, TimeseriesItem> kvp in sodi)
+				{
+					string outcome = "Okay: "; // until it's not
+					
+					// kvp.Key;
+					// kvp.Value.votes;
+					// kvp.Value.vote_shares.bidenj;
+					// kvp.Value.vote_shares.trumpd;
+					double elapsedSec = (kvp.Key - zeroTime).TotalSeconds;
+					int esi = (int)elapsedSec;
+					// say(stateName + " " + esi );
+					if(maxElapsed < esi)
+						maxElapsed = esi;
+					if(minElapsed > esi)
+						minElapsed = esi;
+					
+					// many metrics I could conceive, but race to QED:
+
+					// WTF! 66 Million trump votes stolen cannot be right!
+					// Okay, I found ringers in the timestream, with votes == 0!
+					if(kvp.Value.votes == 0)
+					{
+						if(prior != null) // excuse any initial zeros
+							ringers ++;
+						// no, go to end to log line... continue;
+						outcome = "EXCLUDE: ZERO TOTAL VOTES: ";
+					}
+					else
+					{
+
+						if(prior != null)
+						{
+							// mind is boggled. Did I negate anything? Snatch some raw data proof:
+							string rawData = "RAW DATA WAS(" + prior.votes + ", " + prior.vote_shares.trumpd + ", " + prior.vote_shares.bidenj
+								+ "), NOW IS(" + kvp.Value.votes + ", " + kvp.Value.vote_shares.trumpd + ", " + kvp.Value.vote_shares.bidenj + ").";
+							
+							// Original author warned that data has only 3 dec places.
+							// "vote_shares":{"trumpd":0.622,"bidenj":0.336},"votes":190970,
+							// Only report decline if it exceeds the two round-off errors.
+							
+							// double-check whether total votes ever fell:
+							// YES, 73 times, the total votes regressed!
+							// WTF! GIGO? BrainFart? or THE FRAUD ITSELF!?
+							
+							if(kvp.Value.votes < prior.votes)
+							{
+								int asPos = prior.votes - kvp.Value.votes;
+
+								say("TOTAL VOTES FELL BY " + asPos + " in " + stateName);
+								// who was disadvantaged by the event? w.o.regard to round-off
+								int t1 = (int)Math.Round((prior.votes * prior.vote_shares.trumpd));
+								int b1 = (int)Math.Round((prior.votes * prior.vote_shares.bidenj));
+								int t2 = (int)Math.Round((kvp.Value.votes * kvp.Value.vote_shares.trumpd));
+								int b2 = (int)Math.Round((kvp.Value.votes * kvp.Value.vote_shares.bidenj));
+								nominalTrumpLoss += (t2-t1);
+								nominalBidenLoss += (b2-b1);
+								say("Nominal Change: Trump:" + (t2-t1).ToString().PadLeft(8) + ", Biden: " + (b2-b1).ToString().PadLeft(8));
+
+								// blame this provable fault, of TOTAL vote decreasing:
+								{
+									thisStateStole.flaws.Add(new Flaw(kvp.Key, kvp.Value.votes - prior.votes, t2-t1, b2-b1, rawData));
+									thisStateStole.sumTotal -= kvp.Value.votes - prior.votes;
+									thisStateStole.sumBiden += b2-b1;
+									thisStateStole.sumTrump += t2-t1;
+								}
+								
+								say(describeTsi("Prior = ", prior, ""));
+								say(describeTsi("Later = ", kvp.Value, ""));
+								sumTotalVotesFell += asPos;
+								timesTotalVotesFell++;
+								
+								
+								outcome = " -- FAULT: TOTAL VOTES DECREASED!";
+								// tabulate that event by state:
+								
+							}
+
+							// JUST TO DECLUTTER, don't report either sub-decline:
+							// (which could hide real regressions of vote count...)
+							
+							else
+							{
+								int oneTwo = 0;
+								
+								// do trump
+								{
+
+									// Provable
+
+									// prior worst case could have been lower by 0.0005.
+									double tpwc = prior.vote_shares.trumpd - 0.0005;
+									// later worst case could have been higher by 0.0005.
+									double tlwc = kvp.Value.vote_shares.trumpd + 0.0005;
+									
+									int pv = (int)Math.Floor(tpwc * prior.votes);
+									int lv = (int)Math.Ceiling(tlwc * kvp.Value.votes);
+									
+									if(lv < pv)
+									{
+										// found a trump PROVABLE vote count decline!
+										int asPos = pv - lv;
+										say("TRUMP VOTES FELL BY " + asPos + " in " + stateName);
+										sumTrumpVotesFell += asPos;
+										timesTrumpVotesFell ++;
+										
+
+										// See more data:
+										say(describeTsi("Prior = ", prior, ""));
+										say(describeTsi("Later = ", kvp.Value, ""));
+
+										oneTwo++;
+										outcome = " FAULT: TRUMP VOTES PROVABLY DECREASED: ";
+
+										// none were simultaneous probably for both
+										
+										// blame this provable fault, of TRUMP vote decreasing:
+										{
+											thisStateStole.flaws.Add(new Flaw(kvp.Key, kvp.Value.votes - prior.votes, -asPos, 0, rawData));
+											thisStateStole.sumTotal -= kvp.Value.votes - prior.votes;
+											thisStateStole.sumBiden -= 0;
+											thisStateStole.sumTrump -= asPos;
+										}
+
+
+									}
+
+									else
+									{
+
+										// Nominal
+
+										// the STEAL could be hiding under the round-off errors:
+										// repeat (if-logic and summation) using nominal values.
+										
+										// prior worst case could have been lower by 0.0005.
+										double tpnom = prior.vote_shares.trumpd;
+										// later worst case could have been higher by 0.0005.
+										double tlnom = kvp.Value.vote_shares.trumpd;
+										
+										int pv2 = (int)Math.Round(tpnom * prior.votes);
+										int lv2 = (int)Math.Round(tlnom * kvp.Value.votes);
+										
+										if(lv2 < pv2)
+										{
+											// found a trump vote count decline!
+											int asPos = pv2 - lv2;
+											say("TRUMP VOTES FELL BY " + asPos + " in " + stateName);
+											sumTrumpVotesFellNominal += asPos;
+											timesTrumpVotesFellNominal ++;
+											
+
+											// See more data:
+											say(describeTsi("Prior = ", prior, ""));
+											say(describeTsi("Later = ", kvp.Value, ""));
+
+											oneTwo++;
+											outcome = " SUSPICIOUS, TRUMP VOTES NOMINALLY DECREASED: ";
+										}
+									}
+								}
+
+								// repeat for biden
+								{
+									
+									// Provable
+
+
+									// prior worst case could have been lower by 0.0005.
+									double bpwc = prior.vote_shares.bidenj - 0.0005;
+									// later worst case could have been higher by 0.0005.
+									double blwc = kvp.Value.vote_shares.bidenj + 0.0005;
+									
+									int pv = (int)Math.Floor(bpwc * prior.votes);
+									int lv = (int)Math.Ceiling(blwc * kvp.Value.votes);
+									
+									if(lv < pv)
+									{
+										// found a trump vote count decline!
+										int asPos = pv - lv;
+										say("biden votes fell by " + asPos + " in " + stateName);
+										sumBidenVotesFell += asPos;
+										timesBidenVotesFell ++;
+										
+										// 66 Million votes cannot be right!
+										// See more data:
+										say(describeTsi("Prior = ", prior, ""));
+										say(describeTsi("Later = ", kvp.Value, ""));
+
+										oneTwo++;
+										outcome = "FAULT, BIDEN VOTES PROVABLY DECREASED: ";
+
+										// blame this provable fault, of BIDEN vote decreasing:
+										{
+											thisStateStole.flaws.Add(new Flaw(kvp.Key, kvp.Value.votes - prior.votes, 0, -asPos, rawData));
+											thisStateStole.sumTotal -= kvp.Value.votes - prior.votes;
+											thisStateStole.sumBiden -= asPos;
+											thisStateStole.sumTrump -= 0;
+										}
+
+
+									}
+									else
+									{
+										
+										// Nominal
+
+										// the STEAL could be hiding under the round-off errors:
+										// repeat (if-logic and summation) using nominal values.
+										
+
+
+										// prior worst case could have been lower by 0.0005.
+										double bpnom = prior.vote_shares.bidenj;
+										// later worst case could have been higher by 0.0005.
+										double blnom = kvp.Value.vote_shares.bidenj;
+										
+										int pv2 = (int)Math.Floor(bpnom * prior.votes);
+										int lv2 = (int)Math.Ceiling(blnom * kvp.Value.votes);
+										
+										if(lv2 < pv2)
+										{
+											// found a trump vote count decline!
+											int asPos = pv2 - lv2;
+											say("biden votes fell by " + asPos + " in " + stateName);
+											sumBidenVotesFellNominal += asPos;
+											timesBidenVotesFellNominal ++;
+											
+											// 66 Million votes cannot be right!
+											// See more data:
+											say(describeTsi("Prior = ", prior, ""));
+											say(describeTsi("Later = ", kvp.Value, ""));
+
+											oneTwo++;
+											outcome = "SUSPICIOUS, BIDEN VOTES NOMINALLY DECREASED: ";
+										}
+
+
+
+									}
+
+									
+									if(oneTwo == 2)
+										outcome = "SUSPICIOUS, BOTH TRUMP AND BIDEN VOTES DECREASED: ";
+								}
+
+							}
+
+						}
+						
+						prior = kvp.Value;
+					}
+
+					// log this time-sorted line whether good or bad:
+					log(describeTsi(stateName + " ", kvp.Value, outcome));
+
+				}
+				
+
+
+			}
+			
+			say("total samples = " + samples); // 8784, incl 8 duplicates
+			say("minElapsedSec = " + minElapsed); // 29785 = 8.2 hours
+			say("maxElapsedSec = " + maxElapsed); // 641298 = 7.4 days
+
+
+			say("Analysis limited to items from " + lowCutoff + " to " + highCutoff + " UTC.");
+			
+			// INSANE, THESE *ARE* FRAUD I THINK:
+			say("timesTotalVotesFell = " + timesTotalVotesFell); // sanity check
+			say("sumTotalVotesFell = " + sumTotalVotesFell); // sanity check
+			
+			say("nominalTrumpLoss during TotalVotesFell" + nominalTrumpLoss);
+			say("nominalBidenLoss during TotalVotesFell" + nominalBidenLoss);
+			
+			say("Otherwise, provably timesTrumpVotesFell = " + timesTrumpVotesFell); //
+			say("Otherwise, provably sumTrumpVotesFell = " + sumTrumpVotesFell); //
+			say("Otherwise, provably timesBidenVotesFell = " + timesBidenVotesFell); //
+			say("Otherwise, provably sumBidenVotesFell = " + sumBidenVotesFell); //
+			
+			say("Otherwise, nominal timesTrumpVotesFell = " + timesTrumpVotesFellNominal); //
+			say("Otherwise, nominal sumTrumpVotesFell = " + sumTrumpVotesFellNominal); //
+			say("Otherwise, nominal timesBidenVotesFell = " + timesBidenVotesFellNominal); //
+			say("Otherwise, nominal sumBidenVotesFell = " + sumBidenVotesFellNominal); //
+			
+			
+			// having run the sorted timeseries,
+			// over all states,
+			// output per-state analysis
+			
+			// first compute an effect % to order results:
+			SortedDictionary<double,string> effectState = new SortedDictionary<double, string>();
+			
+			Random rand = new Random(); // to prevent equality crash...
+			
+			foreach(KeyValuePair<string,Stole> kvp in stateStole)
+			{
+				if(kvp.Value.flaws.Count > 0)
+				{
+					// got this baby step...
+					// but now sort by % effect on delta-outcome.
+					// say(kvp.Key + " had " + kvp.Value.flaws.Count + " flaws:");
+					int sizeOfEffect = Math.Abs(kvp.Value.sumTrump - kvp.Value.sumBiden);
+					int sizeOfFinalDifference = Math.Abs(kvp.Value.lastTrump - kvp.Value.lastBiden);
+					// invert for descending order
+					if(sizeOfEffect > 0)
+					{
+						// non-zero chance of a crash here... ignore it:
+						// Well, it happened on Virginia when nearly done. Randomize!
+						double inverseEffect = sizeOfFinalDifference / (sizeOfEffect + rand.Next(10000)/10000.0);
+						effectState.Add(inverseEffect, kvp.Key);
+					}
+				}
+			}
+			
+			foreach(KeyValuePair<Double, string> kvp in effectState)
+			{
+				string stateName = kvp.Value;
+				Stole stolen = stateStole[stateName];
+
+				int sizeOfEffect = Math.Abs(stolen.sumTrump - stolen.sumBiden);
+				int sizeOfFinalDifference = Math.Abs(stolen.lastTrump - stolen.lastBiden);
+				int percentEffect = 100 * sizeOfEffect / sizeOfFinalDifference;
+
+				// without regard to polarity, too much to trick my mind right now.
+				say(stateName + " had " + stolen.flaws.Count + " provable flaws, worth " + percentEffect + "% of the final vote margin.");
+				// but recompute polarity:
+				// let's assume Biden is the Thief:
+				// Nah, generalize:
+				int LostVotes = 0;
+				int BidenStole = 0;
+				int TrumpStole = 0;
+				foreach(Flaw f in stolen.flaws)
+				{
+					say("Flaw in " + stateName + " at " + f.atTime
+					    + ": dTotalVotes = " + f.dTotal
+					    + ", dTrumpVotes = " + f.dTrump
+					    + ", dBidenVotes = " + f.dBiden
+					    + "\r\n" + f.raw
+					   );
+					LostVotes += f.dTotal;
+					BidenStole += (f.dBiden - f.dTrump);
+					TrumpStole += (f.dTrump - f.dBiden);
+				}
+				
+				int BidenWonBy = stolen.lastBiden - stolen.lastTrump;
+				int TrumpWonBy = stolen.lastTrump - stolen.lastBiden;
+				string saying = "";
+				if(TrumpWonBy > 0)
+				{
+					saying += "Trump won by " + TrumpWonBy + " votes";
+				}
+				else
+				{
+					saying += "Biden won by " + BidenWonBy + " votes";
+				}
+				saying += " while ";
+				if(TrumpStole > 0)
+				{
+					saying += "Trump was given " + TrumpStole + " net votes";
+				}
+				else
+				{
+					saying += "Biden was given " + BidenStole + " net votes";
+				}
+				saying += " while " + (-LostVotes) + " votes disappeared in " + stateName + ".";
+
+				say(saying);
+			}
+
+
+		}
+	}
+}
